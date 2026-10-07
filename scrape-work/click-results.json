@@ -1,0 +1,1500 @@
+[
+ {
+  "route": "/pages/Transformation/Transformation",
+  "file": "pages-Transformation-Transformation.html",
+  "tested": [
+   {
+    "text": "立即合成",
+    "cls": "newbtn",
+    "clicked": true,
+    "nav": false,
+    "to": "",
+    "contentChanged": false,
+    "api": []
+   },
+   {
+    "text": "确认",
+    "cls": "cu-btn margin-top",
+    "clicked": false,
+    "nav": false,
+    "to": "",
+    "contentChanged": false,
+    "api": []
+   },
+   {
+    "text": "取消",
+    "cls": "cu-btn margin-top",
+    "clicked": false,
+    "nav": false,
+    "to": "",
+    "contentChanged": false,
+    "api": []
+   },
+   {
+    "text": "必要1 可用:1 测试数据 0/1",
+    "cls": "text-center padding-tb-sm radius-c",
+    "clicked": true,
+    "nav": false,
+    "to": "",
+    "contentChanged": false,
+    "api": []
+   },
+   {
+    "text": "可用:1 测试数据 0/1",
+    "cls": "items",
+    "clicked": true,
+    "nav": false,
+    "to": "",
+    "contentChanged": false,
+    "api": []
+   },
+   {
+    "text": "立即合成",
+    "cls": "bottom_nav padding flex align-cent",
+    "clicked": true,
+    "nav": false,
+    "to": "",
+    "contentChanged": false,
+    "api": []
+   },
+   {
+    "text": "合成条件 消耗份数",
+    "cls": "table margin-top",
+    "clicked": false,
+    "nav": false,
+    "to": "",
+    "contentChanged": false,
+    "api": []
+   },
+   {
+    "text": "合成条件 消耗份数",
+    "cls": "row header",
+    "clicked": false,
+    "nav": false,
+    "to": "",
+    "contentChanged": false,
+    "api": []
+   }
+  ]
+ },
+ {
+  "route": "/pages/account/account",
+  "file": "pages-account-account.html",
+  "tested": [
+   {
+    "text": "",
+    "cls": "cuIcon-edit account-edit",
+    "clicked": true,
+    "nav": true,
+    "to": "#/pages/account/user",
+    "contentChanged": true,
+    "api": [
+     "f3a0536111"
+    ]
+   },
+   {
+    "text": "首发",
+    "cls": "trade-item",
+    "clicked": true,
+    "nav": true,
+    "to": "#/pages/account/orderList?isTabs=1",
+    "contentChanged": true,
+    "api": [
+     "71d2e2e52b"
+    ]
+   },
+   {
+    "text": "市场",
+    "cls": "trade-item",
+    "clicked": true,
+    "nav": true,
+    "to": "#/pages/account/orderList?isTabs=2",
+    "contentChanged": true,
+    "api": [
+     "ed613818fc"
+    ]
+   },
+   {
+    "text": "求购",
+    "cls": "trade-item",
+    "clicked": true,
+    "nav": true,
+    "to": "#/pages/account/orderList?isTabs=4",
+    "contentChanged": true,
+    "api": [
+     "e4c399d86d"
+    ]
+   },
+   {
+    "text": "委托",
+    "cls": "trade-item",
+    "clicked": true,
+    "nav": true,
+    "to": "#/pages/account/orderList?isTabs=7",
+    "contentChanged": true,
+    "api": [
+     "21fdf3c172"
+    ]
+   },
+   {
+    "text": "账号安全",
+    "cls": "menu-item",
+    "clicked": true,
+    "nav": true,
+    "to": "#/pages/account/setting",
+    "contentChanged": true,
+    "api": []
+   },
+   {
+    "text": "我的钱包",
+    "cls": "menu-item",
+    "clicked": true,
+    "nav": true,
+    "to": "#/pages/wallet/wallet",
+    "contentChanged": true,
+    "api": [
+     "f3a0536111"
+    ]
+   },
+   {
+    "text": "我的收藏",
+    "cls": "menu-item",
+    "clicked": true,
+    "nav": true,
+    "to": "#/pages/account/collections",
+    "contentChanged": true,
+    "api": [
+     "86a850ffde"
+    ]
+   },
+   {
+    "text": "收藏记录",
+    "cls": "menu-item",
+    "clicked": true,
+    "nav": true,
+    "to": "#/pages/account/orderList?group=consign",
+    "contentChanged": true,
+    "api": [
+     "4f8beda766"
+    ]
+   },
+   {
+    "text": "我的地址",
+    "cls": "menu-item is-last",
+    "clicked": true,
+    "nav": true,
+    "to": "#/pages/address/address",
+    "contentChanged": true,
+    "api": [
+     "4ac3dc6525"
+    ]
+   },
+   {
+    "text": "关于平台",
+    "cls": "menu-item",
+    "clicked": true,
+    "nav": true,
+    "to": "#/pages/account/about",
+    "contentChanged": true,
+    "api": [
+     "a386180707"
+    ]
+   },
+   {
+    "text": "退出登录",
+    "cls": "menu-item is-last",
+    "clicked": true,
+    "nav": false,
+    "to": "",
+    "contentChanged": false,
+    "api": []
+   }
+  ]
+ },
+ {
+  "route": "/pages/account/collections",
+  "file": "pages-account-collections.html",
+  "tested": [
+   {
+    "text": "",
+    "cls": "back-btn",
+    "clicked": true,
+    "nav": true,
+    "to": "#/pages/home/home",
+    "contentChanged": true,
+    "api": [
+     "08eec40a5e",
+     "a386180707",
+     "b820c1a92a",
+     "55566f961c"
+    ]
+   },
+   {
+    "text": "数字资产",
+    "cls": "category-tab active",
+    "clicked": true,
+    "nav": false,
+    "to": "",
+    "contentChanged": false,
+    "api": [
+     "86a850ffde"
+    ]
+   },
+   {
+    "text": "实物资产",
+    "cls": "category-tab",
+    "clicked": true,
+    "nav": false,
+    "to": "",
+    "contentChanged": true,
+    "api": []
+   },
+   {
+    "text": "藏品",
+    "cls": "sub-tab-item active",
+    "clicked": true,
+    "nav": false,
+    "to": "",
+    "contentChanged": false,
+    "api": []
+   },
+   {
+    "text": "盲盒",
+    "cls": "sub-tab-item",
+    "clicked": true,
+    "nav": false,
+    "to": "",
+    "contentChanged": false,
+    "api": []
+   },
+   {
+    "text": "",
+    "cls": "modal-close-btn",
+    "clicked": false,
+    "nav": false,
+    "to": "",
+    "contentChanged": false,
+    "api": []
+   },
+   {
+    "text": "返回",
+    "cls": "cu-btn lg bg-gray radius margin-ri",
+    "clicked": true,
+    "nav": false,
+    "to": "",
+    "contentChanged": false,
+    "api": []
+   },
+   {
+    "text": "寄售",
+    "cls": "cu-btn lg bg-consign radius flex-s",
+    "clicked": true,
+    "nav": false,
+    "to": "",
+    "contentChanged": false,
+    "api": []
+   },
+   {
+    "text": "取消",
+    "cls": "box-dialog-btn cancel",
+    "clicked": true,
+    "nav": false,
+    "to": "",
+    "contentChanged": false,
+    "api": []
+   },
+   {
+    "text": "立即开启",
+    "cls": "box-dialog-btn ok",
+    "clicked": true,
+    "nav": false,
+    "to": "",
+    "contentChanged": false,
+    "api": []
+   },
+   {
+    "text": "确定",
+    "cls": "box-result-btn",
+    "clicked": true,
+    "nav": false,
+    "to": "",
+    "contentChanged": false,
+    "api": []
+   },
+   {
+    "text": "我的收藏册",
+    "cls": "nav-header",
+    "clicked": true,
+    "nav": false,
+    "to": "",
+    "contentChanged": false,
+    "api": []
+   }
+  ]
+ },
+ {
+  "route": "/pages/address/add",
+  "file": "pages-address-add.html",
+  "tested": [
+   {
+    "text": "",
+    "cls": "back-btn",
+    "clicked": true,
+    "nav": true,
+    "to": "#/pages/home/home",
+    "contentChanged": true,
+    "api": [
+     "08eec40a5e",
+     "a386180707",
+     "b820c1a92a",
+     "55566f961c"
+    ]
+   },
+   {
+    "text": "所在地址 请选择省市区",
+    "cls": "form-row",
+    "clicked": true,
+    "nav": false,
+    "to": "",
+    "contentChanged": false,
+    "api": []
+   },
+   {
+    "text": "",
+    "cls": "default-switch",
+    "clicked": true,
+    "nav": false,
+    "to": "",
+    "contentChanged": false,
+    "api": []
+   },
+   {
+    "text": "保存",
+    "cls": "save-btn",
+    "clicked": true,
+    "nav": false,
+    "to": "",
+    "contentChanged": false,
+    "api": []
+   },
+   {
+    "text": "取消",
+    "cls": "cc_area_view_btn_cancle",
+    "clicked": false,
+    "nav": false,
+    "to": "",
+    "contentChanged": false,
+    "api": []
+   },
+   {
+    "text": "确定",
+    "cls": "cc_area_view_btn_sure",
+    "clicked": false,
+    "nav": false,
+    "to": "",
+    "contentChanged": false,
+    "api": []
+   },
+   {
+    "text": "收货人 收货人姓名 手机号 收货人手机号",
+    "cls": "form-card",
+    "clicked": true,
+    "nav": false,
+    "to": "",
+    "contentChanged": false,
+    "api": []
+   },
+   {
+    "text": "收货人 收货人姓名",
+    "cls": "form-row row-border",
+    "clicked": true,
+    "nav": false,
+    "to": "",
+    "contentChanged": false,
+    "api": []
+   },
+   {
+    "text": "手机号 收货人手机号",
+    "cls": "form-row",
+    "clicked": true,
+    "nav": false,
+    "to": "",
+    "contentChanged": false,
+    "api": []
+   },
+   {
+    "text": "所在地址 请选择省市区",
+    "cls": "form-card",
+    "clicked": true,
+    "nav": false,
+    "to": "",
+    "contentChanged": false,
+    "api": []
+   },
+   {
+    "text": "详细地址 小区楼栋、村庄等详细信息",
+    "cls": "form-card form-card-large",
+    "clicked": true,
+    "nav": false,
+    "to": "",
+    "contentChanged": false,
+    "api": []
+   },
+   {
+    "text": "详细地址",
+    "cls": "form-row form-row-top",
+    "clicked": true,
+    "nav": false,
+    "to": "",
+    "contentChanged": false,
+    "api": []
+   }
+  ]
+ },
+ {
+  "route": "/pages/address/address",
+  "file": "pages-address-address.html",
+  "tested": [
+   {
+    "text": "",
+    "cls": "back-btn",
+    "clicked": true,
+    "nav": true,
+    "to": "#/pages/home/home",
+    "contentChanged": true,
+    "api": [
+     "08eec40a5e",
+     "a386180707",
+     "b820c1a92a",
+     "55566f961c"
+    ]
+   },
+   {
+    "text": "添加收货地址",
+    "cls": "add-btn",
+    "clicked": true,
+    "nav": true,
+    "to": "#/pages/address/add",
+    "contentChanged": true,
+    "api": []
+   }
+  ]
+ },
+ {
+  "route": "/pages/colorfulMix/icardGame",
+  "file": "pages-colorfulMix-icardGame.html",
+  "tested": [
+   {
+    "text": "ICard 搜索",
+    "cls": "search-bar",
+    "clicked": true,
+    "nav": true,
+    "to": "#/pages/search/search",
+    "contentChanged": true,
+    "api": []
+   },
+   {
+    "text": "爱卡好物",
+    "cls": "category-tab active",
+    "clicked": true,
+    "nav": true,
+    "to": "#/pages/home/home",
+    "contentChanged": true,
+    "api": [
+     "08eec40a5e",
+     "a386180707",
+     "b820c1a92a",
+     "55566f961c"
+    ]
+   },
+   {
+    "text": "数字艺术",
+    "cls": "category-tab",
+    "clicked": true,
+    "nav": true,
+    "to": "#/pages/home/home",
+    "contentChanged": true,
+    "api": [
+     "08eec40a5e",
+     "a386180707",
+     "b820c1a92a",
+     "55566f961c"
+    ]
+   },
+   {
+    "text": "精选礼遇",
+    "cls": "category-tab",
+    "clicked": true,
+    "nav": true,
+    "to": "#/pages/home/home",
+    "contentChanged": true,
+    "api": [
+     "08eec40a5e",
+     "a386180707",
+     "b820c1a92a",
+     "55566f961c"
+    ]
+   },
+   {
+    "text": "ICARD联名高端定制手机壳iPhone ¥19",
+    "cls": "waterfall-item",
+    "clicked": true,
+    "nav": true,
+    "to": "#/pages/home/home",
+    "contentChanged": true,
+    "api": [
+     "08eec40a5e",
+     "a386180707",
+     "b820c1a92a",
+     "55566f961c"
+    ]
+   },
+   {
+    "text": "坐姿宇航员看书太空人大型装饰摆件潮流单品 ¥19",
+    "cls": "waterfall-item",
+    "clicked": false,
+    "nav": true,
+    "to": "#/pages/home/home",
+    "contentChanged": true,
+    "api": [
+     "08eec40a5e",
+     "a386180707",
+     "b820c1a92a",
+     "55566f961c"
+    ]
+   },
+   {
+    "text": "三角洲行动手办模型盲盒六一儿童节礼物 ¥99",
+    "cls": "waterfall-item",
+    "clicked": false,
+    "nav": true,
+    "to": "#/pages/home/home",
+    "contentChanged": true,
+    "api": [
+     "08eec40a5e",
+     "a386180707",
+     "b820c1a92a",
+     "55566f961c"
+    ]
+   },
+   {
+    "text": "潮玩积木TOPTOY兔破未来半解剖拼装 ¥199",
+    "cls": "waterfall-item",
+    "clicked": false,
+    "nav": true,
+    "to": "#/pages/home/home",
+    "contentChanged": true,
+    "api": [
+     "08eec40a5e",
+     "a386180707",
+     "b820c1a92a",
+     "55566f961c"
+    ]
+   },
+   {
+    "text": "ICARD潮流时尚联名手办高端定制款 ¥199",
+    "cls": "waterfall-item",
+    "clicked": true,
+    "nav": true,
+    "to": "#/pages/home/home",
+    "contentChanged": true,
+    "api": [
+     "08eec40a5e",
+     "a386180707",
+     "b820c1a92a",
+     "55566f961c"
+    ]
+   },
+   {
+    "text": "一飞冲天齐天大圣孙悟空摆件装饰手办模型 ¥99",
+    "cls": "waterfall-item",
+    "clicked": false,
+    "nav": true,
+    "to": "#/pages/home/home",
+    "contentChanged": true,
+    "api": [
+     "08eec40a5e",
+     "a386180707",
+     "b820c1a92a",
+     "55566f961c"
+    ]
+   },
+   {
+    "text": "哆啦盲盒摆件玩具手办公仔潮玩礼物周边 ¥99",
+    "cls": "waterfall-item",
+    "clicked": false,
+    "nav": true,
+    "to": "#/pages/home/home",
+    "contentChanged": true,
+    "api": [
+     "08eec40a5e",
+     "a386180707",
+     "b820c1a92a",
+     "55566f961c"
+    ]
+   },
+   {
+    "text": "首页",
+    "cls": "tabbaritem",
+    "clicked": true,
+    "nav": true,
+    "to": "#/pages/home/home",
+    "contentChanged": true,
+    "api": [
+     "08eec40a5e",
+     "a386180707",
+     "b820c1a92a",
+     "55566f961c"
+    ]
+   }
+  ]
+ },
+ {
+  "route": "/pages/index/index",
+  "file": "pages-index-index.html",
+  "tested": [
+   {
+    "text": "ICard 搜索",
+    "cls": "search-bar",
+    "clicked": true,
+    "nav": true,
+    "to": "#/pages/search/search",
+    "contentChanged": true,
+    "api": []
+   },
+   {
+    "text": "爱卡好物",
+    "cls": "category-tab active",
+    "clicked": true,
+    "nav": true,
+    "to": "#/pages/home/home",
+    "contentChanged": true,
+    "api": [
+     "08eec40a5e",
+     "a386180707",
+     "b820c1a92a",
+     "55566f961c"
+    ]
+   },
+   {
+    "text": "数字艺术",
+    "cls": "category-tab",
+    "clicked": true,
+    "nav": true,
+    "to": "#/pages/home/home",
+    "contentChanged": true,
+    "api": [
+     "08eec40a5e",
+     "a386180707",
+     "b820c1a92a",
+     "55566f961c"
+    ]
+   },
+   {
+    "text": "精选礼遇",
+    "cls": "category-tab",
+    "clicked": true,
+    "nav": true,
+    "to": "#/pages/home/home",
+    "contentChanged": true,
+    "api": [
+     "08eec40a5e",
+     "a386180707",
+     "b820c1a92a",
+     "55566f961c"
+    ]
+   },
+   {
+    "text": "ICARD联名高端定制手机壳iPhone ¥19",
+    "cls": "waterfall-item",
+    "clicked": true,
+    "nav": true,
+    "to": "#/pages/home/home",
+    "contentChanged": true,
+    "api": [
+     "08eec40a5e",
+     "a386180707",
+     "b820c1a92a",
+     "55566f961c"
+    ]
+   },
+   {
+    "text": "坐姿宇航员看书太空人大型装饰摆件潮流单品 ¥19",
+    "cls": "waterfall-item",
+    "clicked": false,
+    "nav": true,
+    "to": "#/pages/home/home",
+    "contentChanged": true,
+    "api": [
+     "08eec40a5e",
+     "a386180707",
+     "b820c1a92a",
+     "55566f961c"
+    ]
+   },
+   {
+    "text": "三角洲行动手办模型盲盒六一儿童节礼物 ¥99",
+    "cls": "waterfall-item",
+    "clicked": false,
+    "nav": true,
+    "to": "#/pages/home/home",
+    "contentChanged": true,
+    "api": [
+     "08eec40a5e",
+     "a386180707",
+     "b820c1a92a",
+     "55566f961c"
+    ]
+   },
+   {
+    "text": "潮玩积木TOPTOY兔破未来半解剖拼装 ¥199",
+    "cls": "waterfall-item",
+    "clicked": false,
+    "nav": true,
+    "to": "#/pages/home/home",
+    "contentChanged": true,
+    "api": [
+     "08eec40a5e",
+     "a386180707",
+     "b820c1a92a",
+     "55566f961c"
+    ]
+   },
+   {
+    "text": "ICARD潮流时尚联名手办高端定制款 ¥199",
+    "cls": "waterfall-item",
+    "clicked": true,
+    "nav": true,
+    "to": "#/pages/home/home",
+    "contentChanged": true,
+    "api": [
+     "08eec40a5e",
+     "a386180707",
+     "b820c1a92a",
+     "55566f961c"
+    ]
+   },
+   {
+    "text": "一飞冲天齐天大圣孙悟空摆件装饰手办模型 ¥99",
+    "cls": "waterfall-item",
+    "clicked": false,
+    "nav": true,
+    "to": "#/pages/home/home",
+    "contentChanged": true,
+    "api": [
+     "08eec40a5e",
+     "a386180707",
+     "b820c1a92a",
+     "55566f961c"
+    ]
+   },
+   {
+    "text": "哆啦盲盒摆件玩具手办公仔潮玩礼物周边 ¥99",
+    "cls": "waterfall-item",
+    "clicked": false,
+    "nav": true,
+    "to": "#/pages/home/home",
+    "contentChanged": true,
+    "api": [
+     "08eec40a5e",
+     "a386180707",
+     "b820c1a92a",
+     "55566f961c"
+    ]
+   },
+   {
+    "text": "首页",
+    "cls": "tabbaritem",
+    "clicked": true,
+    "nav": true,
+    "to": "#/pages/home/home",
+    "contentChanged": true,
+    "api": [
+     "08eec40a5e",
+     "a386180707",
+     "b820c1a92a",
+     "55566f961c"
+    ]
+   }
+  ]
+ },
+ {
+  "route": "/pages/market/bidDetail",
+  "file": "pages-market-bidDetail.html",
+  "tested": [
+   {
+    "text": "",
+    "cls": "back-btn",
+    "clicked": true,
+    "nav": true,
+    "to": "#/pages/home/home",
+    "contentChanged": true,
+    "api": [
+     "08eec40a5e",
+     "a386180707",
+     "b820c1a92a",
+     "55566f961c"
+    ]
+   },
+   {
+    "text": "",
+    "cls": "cuIcon-roundcheckfill agree-check",
+    "clicked": true,
+    "nav": false,
+    "to": "",
+    "contentChanged": false,
+    "api": []
+   },
+   {
+    "text": "《服务协议》",
+    "cls": "agree-link",
+    "clicked": true,
+    "nav": false,
+    "to": "",
+    "contentChanged": false,
+    "api": []
+   },
+   {
+    "text": "确认出售",
+    "cls": "buy-btn",
+    "clicked": true,
+    "nav": false,
+    "to": "",
+    "contentChanged": false,
+    "api": []
+   },
+   {
+    "text": "完成",
+    "cls": "pick-done-btn",
+    "clicked": true,
+    "nav": false,
+    "to": "",
+    "contentChanged": false,
+    "api": []
+   },
+   {
+    "text": "拥有数量 -- 当前最高求购价 ¥ --",
+    "cls": "form-card product-card",
+    "clicked": true,
+    "nav": false,
+    "to": "",
+    "contentChanged": false,
+    "api": []
+   },
+   {
+    "text": "拥有数量 -- 当前最高求购价 ¥ --",
+    "cls": "product-row",
+    "clicked": true,
+    "nav": false,
+    "to": "",
+    "contentChanged": false,
+    "api": []
+   },
+   {
+    "text": "拥有数量 -- 当前最高求购价 ¥ --",
+    "cls": "product-info",
+    "clicked": true,
+    "nav": false,
+    "to": "",
+    "contentChanged": false,
+    "api": []
+   },
+   {
+    "text": "拥有数量 --",
+    "cls": "meta-row",
+    "clicked": true,
+    "nav": false,
+    "to": "",
+    "contentChanged": false,
+    "api": []
+   },
+   {
+    "text": "¥ --",
+    "cls": "floor-price-row",
+    "clicked": true,
+    "nav": false,
+    "to": "",
+    "contentChanged": false,
+    "api": []
+   },
+   {
+    "text": "选择售出编号 可出售数量： 拥有数量：0 已选择",
+    "cls": "card-head",
+    "clicked": true,
+    "nav": false,
+    "to": "",
+    "contentChanged": false,
+    "api": []
+   },
+   {
+    "text": "选择售出编号",
+    "cls": "card-label",
+    "clicked": true,
+    "nav": false,
+    "to": "",
+    "contentChanged": false,
+    "api": []
+   }
+  ]
+ },
+ {
+  "route": "/pages/market/details",
+  "file": "pages-market-details.html",
+  "tested": [
+   {
+    "text": "挂单列表",
+    "cls": "main-tab active",
+    "clicked": true,
+    "nav": false,
+    "to": "",
+    "contentChanged": false,
+    "api": [
+     "082eb0631c"
+    ]
+   },
+   {
+    "text": "相关公告",
+    "cls": "main-tab",
+    "clicked": true,
+    "nav": false,
+    "to": "",
+    "contentChanged": true,
+    "api": [
+     "08eec40a5e"
+    ]
+   },
+   {
+    "text": "寄售",
+    "cls": "sub-tab-item active",
+    "clicked": true,
+    "nav": true,
+    "to": "#/pages/notification/details?id=162",
+    "contentChanged": true,
+    "api": [
+     "f510bf16a3"
+    ]
+   },
+   {
+    "text": "价格",
+    "cls": "list-header-sort list-col-price ac",
+    "clicked": true,
+    "nav": false,
+    "to": "",
+    "contentChanged": false,
+    "api": [
+     "082eb0631c"
+    ]
+   },
+   {
+    "text": "编号",
+    "cls": "list-header-sort list-col-no",
+    "clicked": true,
+    "nav": false,
+    "to": "",
+    "contentChanged": false,
+    "api": [
+     "082eb0631c"
+    ]
+   },
+   {
+    "text": "批量购买",
+    "cls": "bottom-btn outline flex-sub",
+    "clicked": true,
+    "nav": true,
+    "to": "#/pages/market/batchBuy?id=undefined",
+    "contentChanged": true,
+    "api": [
+     "a386180707",
+     "dec9228549"
+    ]
+   },
+   {
+    "text": "快捷购买",
+    "cls": "bottom-btn primary flex-sub",
+    "clicked": true,
+    "nav": false,
+    "to": "",
+    "contentChanged": false,
+    "api": []
+   },
+   {
+    "text": "",
+    "cls": "bottom-sheet-close",
+    "clicked": false,
+    "nav": false,
+    "to": "",
+    "contentChanged": false,
+    "api": []
+   },
+   {
+    "text": "",
+    "cls": "radius flex btn-action-yellow alig",
+    "clicked": false,
+    "nav": false,
+    "to": "",
+    "contentChanged": false,
+    "api": []
+   },
+   {
+    "text": "批量下单",
+    "cls": "cu-btn flex-sub lg btn-action-yell",
+    "clicked": false,
+    "nav": false,
+    "to": "",
+    "contentChanged": false,
+    "api": []
+   },
+   {
+    "text": "挂单列表 相关公告",
+    "cls": "main-tabs",
+    "clicked": true,
+    "nav": false,
+    "to": "",
+    "contentChanged": false,
+    "api": []
+   },
+   {
+    "text": "寄售 求购 委托",
+    "cls": "sub-tabs",
+    "clicked": true,
+    "nav": false,
+    "to": "",
+    "contentChanged": false,
+    "api": []
+   }
+  ]
+ },
+ {
+  "route": "/pages/market/goodsDetails",
+  "file": "pages-market-goodsDetails.html",
+  "tested": [
+   {
+    "text": "返回",
+    "cls": "sheet-btn outline",
+    "clicked": false,
+    "nav": false,
+    "to": "",
+    "contentChanged": false,
+    "api": []
+   },
+   {
+    "text": "寄售",
+    "cls": "sheet-btn primary",
+    "clicked": false,
+    "nav": false,
+    "to": "",
+    "contentChanged": false,
+    "api": []
+   },
+   {
+    "text": "返回",
+    "cls": "cu-btn lg margin-right bg-gray fle",
+    "clicked": true,
+    "nav": false,
+    "to": "",
+    "contentChanged": false,
+    "api": []
+   },
+   {
+    "text": "确认转赠",
+    "cls": "cu-btn lg btn-action-yellow flex-s",
+    "clicked": true,
+    "nav": false,
+    "to": "",
+    "contentChanged": false,
+    "api": []
+   },
+   {
+    "text": "",
+    "cls": "btn-action-yellow text-xl flex ali",
+    "clicked": false,
+    "nav": false,
+    "to": "",
+    "contentChanged": false,
+    "api": []
+   },
+   {
+    "text": "立即购买",
+    "cls": "cu-btn lg btn-action-yellow radius",
+    "clicked": false,
+    "nav": false,
+    "to": "",
+    "contentChanged": false,
+    "api": []
+   },
+   {
+    "text": "藏品编号 --",
+    "cls": "meta-row",
+    "clicked": true,
+    "nav": false,
+    "to": "",
+    "contentChanged": false,
+    "api": []
+   },
+   {
+    "text": "创作者 --",
+    "cls": "meta-row",
+    "clicked": true,
+    "nav": false,
+    "to": "",
+    "contentChanged": false,
+    "api": []
+   },
+   {
+    "text": "--",
+    "cls": "brand-row-name",
+    "clicked": true,
+    "nav": false,
+    "to": "",
+    "contentChanged": false,
+    "api": []
+   },
+   {
+    "text": "品牌方 --",
+    "cls": "meta-row",
+    "clicked": true,
+    "nav": false,
+    "to": "",
+    "contentChanged": false,
+    "api": []
+   },
+   {
+    "text": "藏品介绍 暂无详情介绍",
+    "cls": "notice-card",
+    "clicked": true,
+    "nav": false,
+    "to": "",
+    "contentChanged": false,
+    "api": []
+   },
+   {
+    "text": "藏品介绍",
+    "cls": "notice-card-title",
+    "clicked": true,
+    "nav": false,
+    "to": "",
+    "contentChanged": false,
+    "api": []
+   }
+  ]
+ },
+ {
+  "route": "/pages/market/market",
+  "file": "pages-market-market.html",
+  "tested": [
+   {
+    "text": "搜索",
+    "cls": "search-btn",
+    "clicked": true,
+    "nav": false,
+    "to": "",
+    "contentChanged": false,
+    "api": [
+     "58e3fa24c3"
+    ]
+   },
+   {
+    "text": "活动市场",
+    "cls": "category-tab active",
+    "clicked": true,
+    "nav": false,
+    "to": "",
+    "contentChanged": false,
+    "api": []
+   },
+   {
+    "text": "自由市场",
+    "cls": "category-tab",
+    "clicked": true,
+    "nav": false,
+    "to": "",
+    "contentChanged": true,
+    "api": [
+     "58e3fa24c3"
+    ]
+   },
+   {
+    "text": "我的关注",
+    "cls": "category-tab",
+    "clicked": true,
+    "nav": false,
+    "to": "",
+    "contentChanged": true,
+    "api": [
+     "58e3fa24c3"
+    ]
+   },
+   {
+    "text": "全部份数",
+    "cls": "da-dropdown-menu-item",
+    "clicked": true,
+    "nav": false,
+    "to": "",
+    "contentChanged": false,
+    "api": []
+   },
+   {
+    "text": "全部价格",
+    "cls": "da-dropdown-menu-item",
+    "clicked": true,
+    "nav": false,
+    "to": "",
+    "contentChanged": false,
+    "api": []
+   },
+   {
+    "text": "地板价",
+    "cls": "col-floor sort-col active",
+    "clicked": true,
+    "nav": false,
+    "to": "",
+    "contentChanged": false,
+    "api": []
+   },
+   {
+    "text": "成交量",
+    "cls": "col-volume sort-col",
+    "clicked": true,
+    "nav": false,
+    "to": "",
+    "contentChanged": false,
+    "api": []
+   },
+   {
+    "text": "橙焰机甲002 发行 888 流通 888 20",
+    "cls": "market-table-row",
+    "clicked": true,
+    "nav": false,
+    "to": "",
+    "contentChanged": false,
+    "api": []
+   },
+   {
+    "text": "艾卡德-学习 发行 131720 流通 9081",
+    "cls": "market-table-row",
+    "clicked": true,
+    "nav": false,
+    "to": "",
+    "contentChanged": false,
+    "api": []
+   },
+   {
+    "text": "首页",
+    "cls": "tabbaritem",
+    "clicked": true,
+    "nav": true,
+    "to": "#/pages/home/home",
+    "contentChanged": true,
+    "api": [
+     "08eec40a5e",
+     "a386180707",
+     "b820c1a92a",
+     "55566f961c"
+    ]
+   },
+   {
+    "text": "活动",
+    "cls": "tabbaritem",
+    "clicked": true,
+    "nav": true,
+    "to": "#/pages/colorfulMix/colorfulMix",
+    "contentChanged": true,
+    "api": [
+     "ca5a5a5a77",
+     "a386180707"
+    ]
+   }
+  ]
+ },
+ {
+  "route": "/pages/notification/notification",
+  "file": "pages-notification-notification.html",
+  "tested": [
+   {
+    "text": "",
+    "cls": "action-btn",
+    "clicked": true,
+    "nav": false,
+    "to": "",
+    "contentChanged": false,
+    "api": [
+     "08eec40a5e"
+    ]
+   },
+   {
+    "text": "",
+    "cls": "assist-btn",
+    "clicked": true,
+    "nav": true,
+    "to": "#/pages/account/service",
+    "contentChanged": true,
+    "api": []
+   },
+   {
+    "text": "全部",
+    "cls": "text-lg text-center items cat-tab ",
+    "clicked": true,
+    "nav": false,
+    "to": "",
+    "contentChanged": false,
+    "api": [
+     "08eec40a5e"
+    ]
+   },
+   {
+    "text": "寄售公告",
+    "cls": "text-lg text-center items cat-tab",
+    "clicked": true,
+    "nav": false,
+    "to": "",
+    "contentChanged": false,
+    "api": [
+     "08eec40a5e"
+    ]
+   },
+   {
+    "text": "上新公告",
+    "cls": "text-lg text-center items cat-tab",
+    "clicked": true,
+    "nav": false,
+    "to": "",
+    "contentChanged": false,
+    "api": [
+     "08eec40a5e"
+    ]
+   },
+   {
+    "text": "活动公告",
+    "cls": "text-lg text-center items cat-tab",
+    "clicked": true,
+    "nav": false,
+    "to": "",
+    "contentChanged": true,
+    "api": [
+     "08eec40a5e"
+    ]
+   },
+   {
+    "text": "运营公告",
+    "cls": "text-lg text-center items cat-tab",
+    "clicked": true,
+    "nav": false,
+    "to": "",
+    "contentChanged": true,
+    "api": [
+     "08eec40a5e"
+    ]
+   },
+   {
+    "text": "辟谣公告",
+    "cls": "text-lg text-center items cat-tab",
+    "clicked": false,
+    "nav": false,
+    "to": "",
+    "contentChanged": false,
+    "api": []
+   },
+   {
+    "text": "空投公告",
+    "cls": "text-lg text-center items cat-tab",
+    "clicked": false,
+    "nav": false,
+    "to": "",
+    "contentChanged": false,
+    "api": []
+   },
+   {
+    "text": "合成公告",
+    "cls": "text-lg text-center items cat-tab",
+    "clicked": false,
+    "nav": false,
+    "to": "",
+    "contentChanged": false,
+    "api": []
+   },
+   {
+    "text": "公司新闻",
+    "cls": "text-lg text-center items cat-tab",
+    "clicked": false,
+    "nav": false,
+    "to": "",
+    "contentChanged": false,
+    "api": []
+   },
+   {
+    "text": "爱卡ICARD官方公告 2026/10/07 1",
+    "cls": "notice-card margin-bottom-sm",
+    "clicked": true,
+    "nav": false,
+    "to": "",
+    "contentChanged": false,
+    "api": []
+   }
+  ]
+ },
+ {
+  "route": "/pages/sign/sign",
+  "file": "pages-sign-sign.html",
+  "tested": [
+   {
+    "text": "",
+    "cls": "back-btn",
+    "clicked": true,
+    "nav": true,
+    "to": "#/pages/home/home",
+    "contentChanged": true,
+    "api": [
+     "08eec40a5e",
+     "a386180707",
+     "b820c1a92a",
+     "55566f961c"
+    ]
+   },
+   {
+    "text": "今日签到",
+    "cls": "sign-btn",
+    "clicked": true,
+    "nav": false,
+    "to": "",
+    "contentChanged": false,
+    "api": []
+   },
+   {
+    "text": "日 一 二 三 四 五 六",
+    "cls": "week-row",
+    "clicked": true,
+    "nav": false,
+    "to": "",
+    "contentChanged": false,
+    "api": []
+   },
+   {
+    "text": "每日签到 每日签到获取随机奖励",
+    "cls": "rule-item",
+    "clicked": true,
+    "nav": false,
+    "to": "",
+    "contentChanged": false,
+    "api": []
+   },
+   {
+    "text": "签到重置 每日00:00 重置签到状态",
+    "cls": "rule-item",
+    "clicked": false,
+    "nav": false,
+    "to": "",
+    "contentChanged": false,
+    "api": []
+   },
+   {
+    "text": "奖励随机 奖励内容随机发放惊喜不断",
+    "cls": "rule-item",
+    "clicked": false,
+    "nav": false,
+    "to": "",
+    "contentChanged": false,
+    "api": []
+   }
+  ]
+ }
+]

@@ -1,0 +1,2142 @@
+{
+ "generatedAt": "2026-10-07T16:22:11.451Z",
+ "pages": [
+  {
+   "route": "/pages/Announcement/Announcement",
+   "file": "pages-Announcement-Announcement.html",
+   "tested": 6,
+   "states": [
+    {
+     "trigger": "系统消息",
+     "kind": "uni-toast",
+     "text": "暂无消息",
+     "size": "390x664",
+     "shot": "pages_Announcement_Announcement__uni-toast__暂无消息.png",
+     "n": 1,
+     "route": "/pages/Announcement/Announcement"
+    },
+    {
+     "trigger": "平台消息",
+     "kind": "uni-toast",
+     "text": "暂无消息",
+     "size": "390x664",
+     "shot": "",
+     "n": 2,
+     "route": "/pages/Announcement/Announcement"
+    },
+    {
+     "trigger": "系统消息",
+     "kind": "uni-toast",
+     "text": "暂无消息",
+     "size": "390x664",
+     "shot": "",
+     "n": 3,
+     "route": "/pages/Announcement/Announcement"
+    },
+    {
+     "trigger": "系统消息",
+     "kind": "uni-toast",
+     "text": "暂无消息",
+     "size": "390x664",
+     "shot": "",
+     "n": 4,
+     "route": "/pages/Announcement/Announcement"
+    },
+    {
+     "trigger": "平台消息",
+     "kind": "uni-toast",
+     "text": "暂无消息",
+     "size": "390x664",
+     "shot": "",
+     "n": 5,
+     "route": "/pages/Announcement/Announcement"
+    },
+    {
+     "trigger": "平台消息",
+     "kind": "uni-toast",
+     "text": "暂无消息",
+     "size": "390x664",
+     "shot": "",
+     "n": 6,
+     "route": "/pages/Announcement/Announcement"
+    }
+   ]
+  },
+  {
+   "route": "/pages/Announcement/list",
+   "file": "pages-Announcement-list.html",
+   "tested": 1,
+   "states": []
+  },
+  {
+   "route": "/pages/Discussion/Discussion",
+   "file": "pages-Discussion-Discussion.html",
+   "tested": 1,
+   "states": [
+    {
+     "trigger": "",
+     "kind": "nav",
+     "text": "#/",
+     "shot": "",
+     "route": "/pages/Discussion/Discussion"
+    }
+   ]
+  },
+  {
+   "route": "/pages/account/InviteRankingList",
+   "file": "pages-account-InviteRankingList.html",
+   "tested": 2,
+   "states": [
+    {
+     "trigger": "",
+     "kind": "nav",
+     "text": "#/pages/home/home",
+     "shot": "",
+     "route": "/pages/account/InviteRankingList"
+    }
+   ]
+  },
+  {
+   "route": "/pages/account/Warelist",
+   "file": "pages-account-Warelist.html",
+   "tested": 3,
+   "states": []
+  },
+  {
+   "route": "/pages/account/about",
+   "file": "pages-account-about.html",
+   "tested": 8,
+   "states": [
+    {
+     "trigger": "",
+     "kind": "nav",
+     "text": "#/pages/home/home",
+     "shot": "",
+     "route": "/pages/account/about"
+    },
+    {
+     "trigger": "用户协议",
+     "kind": "nav",
+     "text": "#/pages/webview/Policy?type=1",
+     "shot": "",
+     "route": "/pages/account/about"
+    },
+    {
+     "trigger": "隐私政策",
+     "kind": "nav",
+     "text": "#/pages/webview/Policy?type=2",
+     "shot": "",
+     "route": "/pages/account/about"
+    },
+    {
+     "trigger": "联系客服",
+     "kind": "nav",
+     "text": "#/pages/account/service",
+     "shot": "",
+     "route": "/pages/account/about"
+    },
+    {
+     "trigger": "用户协议 隐私政策 联系客服",
+     "kind": "nav",
+     "text": "#/pages/webview/Policy?type=2",
+     "shot": "",
+     "route": "/pages/account/about"
+    },
+    {
+     "trigger": "用户协议",
+     "kind": "nav",
+     "text": "#/pages/webview/Policy?type=1",
+     "shot": "",
+     "route": "/pages/account/about"
+    },
+    {
+     "trigger": "隐私政策",
+     "kind": "nav",
+     "text": "#/pages/webview/Policy?type=2",
+     "shot": "",
+     "route": "/pages/account/about"
+    },
+    {
+     "trigger": "联系客服",
+     "kind": "nav",
+     "text": "#/pages/account/service",
+     "shot": "",
+     "route": "/pages/account/about"
+    }
+   ]
+  },
+  {
+   "route": "/pages/account/account",
+   "file": "pages-account-account.html",
+   "tested": 8,
+   "states": [
+    {
+     "trigger": "",
+     "kind": "nav",
+     "text": "#/pages/account/user",
+     "shot": "",
+     "route": "/pages/account/account"
+    },
+    {
+     "trigger": "首发",
+     "kind": "nav",
+     "text": "#/pages/account/orderList?isTabs=1",
+     "shot": "",
+     "route": "/pages/account/account"
+    },
+    {
+     "trigger": "市场",
+     "kind": "nav",
+     "text": "#/pages/account/orderList?isTabs=2",
+     "shot": "",
+     "route": "/pages/account/account"
+    },
+    {
+     "trigger": "求购",
+     "kind": "nav",
+     "text": "#/pages/account/orderList?isTabs=4",
+     "shot": "",
+     "route": "/pages/account/account"
+    },
+    {
+     "trigger": "委托",
+     "kind": "nav",
+     "text": "#/pages/account/orderList?isTabs=7",
+     "shot": "",
+     "route": "/pages/account/account"
+    },
+    {
+     "trigger": "账号安全",
+     "kind": "nav",
+     "text": "#/pages/account/setting",
+     "shot": "",
+     "route": "/pages/account/account"
+    },
+    {
+     "trigger": "我的钱包",
+     "kind": "nav",
+     "text": "#/pages/wallet/wallet",
+     "shot": "",
+     "route": "/pages/account/account"
+    },
+    {
+     "trigger": "我的收藏",
+     "kind": "nav",
+     "text": "#/pages/account/collections",
+     "shot": "",
+     "route": "/pages/account/account"
+    }
+   ]
+  },
+  {
+   "route": "/pages/account/bidList",
+   "file": "pages-account-bidList.html",
+   "tested": 6,
+   "states": [
+    {
+     "trigger": "",
+     "kind": "nav",
+     "text": "#/",
+     "shot": "",
+     "route": "/pages/account/bidList"
+    },
+    {
+     "trigger": "全部",
+     "kind": "api",
+     "text": "55b4885be6",
+     "shot": "",
+     "route": "/pages/account/bidList"
+    },
+    {
+     "trigger": "求购中",
+     "kind": "api",
+     "text": "55b4885be6",
+     "shot": "",
+     "route": "/pages/account/bidList"
+    },
+    {
+     "trigger": "已成交",
+     "kind": "api",
+     "text": "55b4885be6",
+     "shot": "",
+     "route": "/pages/account/bidList"
+    },
+    {
+     "trigger": "已关闭",
+     "kind": "api",
+     "text": "55b4885be6",
+     "shot": "",
+     "route": "/pages/account/bidList"
+    },
+    {
+     "trigger": "已售出",
+     "kind": "api",
+     "text": "55b4885be6",
+     "shot": "",
+     "route": "/pages/account/bidList"
+    }
+   ]
+  },
+  {
+   "route": "/pages/account/blindbox",
+   "file": "pages-account-blindbox.html",
+   "tested": 4,
+   "states": []
+  },
+  {
+   "route": "/pages/account/blindboxresult",
+   "file": "pages-account-blindboxresult.html",
+   "tested": 3,
+   "states": []
+  },
+  {
+   "route": "/pages/account/collections",
+   "file": "pages-account-collections.html",
+   "tested": 8,
+   "states": [
+    {
+     "trigger": "",
+     "kind": "nav",
+     "text": "#/pages/home/home",
+     "shot": "",
+     "route": "/pages/account/collections"
+    },
+    {
+     "trigger": "数字资产",
+     "kind": "api",
+     "text": "86a850ffde",
+     "shot": "",
+     "route": "/pages/account/collections"
+    }
+   ]
+  },
+  {
+   "route": "/pages/account/community",
+   "file": "pages-account-community.html",
+   "tested": 1,
+   "states": [
+    {
+     "trigger": "",
+     "kind": "nav",
+     "text": "#/",
+     "shot": "",
+     "route": "/pages/account/community"
+    }
+   ]
+  },
+  {
+   "route": "/pages/account/increase",
+   "file": "pages-account-increase.html",
+   "tested": 1,
+   "states": [
+    {
+     "trigger": "",
+     "kind": "nav",
+     "text": "#/",
+     "shot": "",
+     "route": "/pages/account/increase"
+    }
+   ]
+  },
+  {
+   "route": "/pages/account/marketOrderList",
+   "file": "pages-account-marketOrderList.html",
+   "tested": 4,
+   "states": [
+    {
+     "trigger": "",
+     "kind": "nav",
+     "text": "#/",
+     "shot": "",
+     "route": "/pages/account/marketOrderList"
+    }
+   ]
+  },
+  {
+   "route": "/pages/account/nickname",
+   "file": "pages-account-nickname.html",
+   "tested": 2,
+   "states": [
+    {
+     "trigger": "",
+     "kind": "nav",
+     "text": "#/",
+     "shot": "",
+     "route": "/pages/account/nickname"
+    }
+   ]
+  },
+  {
+   "route": "/pages/account/open",
+   "file": "pages-account-open.html",
+   "tested": 5,
+   "states": []
+  },
+  {
+   "route": "/pages/account/order",
+   "file": "pages-account-order.html",
+   "tested": 2,
+   "states": [
+    {
+     "trigger": "",
+     "kind": "nav",
+     "text": "#/pages/home/home",
+     "shot": "",
+     "route": "/pages/account/order"
+    }
+   ]
+  },
+  {
+   "route": "/pages/account/orderList",
+   "file": "pages-account-orderList.html",
+   "tested": 8,
+   "states": [
+    {
+     "trigger": "",
+     "kind": "nav",
+     "text": "#/pages/home/home",
+     "shot": "",
+     "route": "/pages/account/orderList"
+    },
+    {
+     "trigger": "首发订单",
+     "kind": "api",
+     "text": "71d2e2e52b",
+     "shot": "",
+     "route": "/pages/account/orderList"
+    },
+    {
+     "trigger": "常规交易",
+     "kind": "api",
+     "text": "ed613818fc",
+     "shot": "",
+     "route": "/pages/account/orderList"
+    },
+    {
+     "trigger": "求购订单",
+     "kind": "api",
+     "text": "e4c399d86d",
+     "shot": "",
+     "route": "/pages/account/orderList"
+    },
+    {
+     "trigger": "委托订单",
+     "kind": "api",
+     "text": "21fdf3c172",
+     "shot": "",
+     "route": "/pages/account/orderList"
+    },
+    {
+     "trigger": "盲盒订单",
+     "kind": "api",
+     "text": "e981e9a89a",
+     "shot": "",
+     "route": "/pages/account/orderList"
+    },
+    {
+     "trigger": "全部",
+     "kind": "api",
+     "text": "e981e9a89a",
+     "shot": "",
+     "route": "/pages/account/orderList"
+    },
+    {
+     "trigger": "待付款",
+     "kind": "api",
+     "text": "e981e9a89a",
+     "shot": "",
+     "route": "/pages/account/orderList"
+    }
+   ]
+  },
+  {
+   "route": "/pages/account/other",
+   "file": "pages-account-other.html",
+   "tested": 6,
+   "states": []
+  },
+  {
+   "route": "/pages/account/otheruser",
+   "file": "pages-account-otheruser.html",
+   "tested": 2,
+   "states": []
+  },
+  {
+   "route": "/pages/account/physicalOrderList",
+   "file": "pages-account-physicalOrderList.html",
+   "tested": 8,
+   "states": [
+    {
+     "trigger": "",
+     "kind": "nav",
+     "text": "#/pages/home/home",
+     "shot": "",
+     "route": "/pages/account/physicalOrderList"
+    }
+   ]
+  },
+  {
+   "route": "/pages/account/privacy",
+   "file": "pages-account-privacy.html",
+   "tested": 3,
+   "states": [
+    {
+     "trigger": "",
+     "kind": "nav",
+     "text": "#/pages/home/home",
+     "shot": "",
+     "route": "/pages/account/privacy"
+    },
+    {
+     "trigger": "设置操作密码",
+     "kind": "nav",
+     "text": "#/pages/account/safePass",
+     "shot": "",
+     "route": "/pages/account/privacy"
+    },
+    {
+     "trigger": "找回密码",
+     "kind": "nav",
+     "text": "#/pages/login/forget",
+     "shot": "",
+     "route": "/pages/account/privacy"
+    }
+   ]
+  },
+  {
+   "route": "/pages/account/realname",
+   "file": "pages-account-realname.html",
+   "tested": 8,
+   "states": [
+    {
+     "trigger": "",
+     "kind": "nav",
+     "text": "#/pages/home/home",
+     "shot": "",
+     "route": "/pages/account/realname"
+    },
+    {
+     "trigger": "返回",
+     "kind": "nav",
+     "text": "#/pages/home/home",
+     "shot": "",
+     "route": "/pages/account/realname"
+    }
+   ]
+  },
+  {
+   "route": "/pages/account/safePass",
+   "file": "pages-account-safePass.html",
+   "tested": 3,
+   "states": [
+    {
+     "trigger": "",
+     "kind": "nav",
+     "text": "#/pages/home/home",
+     "shot": "",
+     "route": "/pages/account/safePass"
+    },
+    {
+     "trigger": "确认",
+     "kind": "uni-toast",
+     "text": "请输入手机号",
+     "size": "390x664",
+     "shot": "pages_account_safePass__uni-toast__请输入手机号.png",
+     "n": 1,
+     "route": "/pages/account/safePass"
+    },
+    {
+     "trigger": "获取验证码",
+     "kind": "uni-toast",
+     "text": "请输入正确的手机号",
+     "size": "390x664",
+     "shot": "pages_account_safePass__uni-toast__请输入正确的手机号.png",
+     "n": 1,
+     "route": "/pages/account/safePass"
+    }
+   ]
+  },
+  {
+   "route": "/pages/account/saleList",
+   "file": "pages-account-saleList.html",
+   "tested": 6,
+   "states": [
+    {
+     "trigger": "",
+     "kind": "nav",
+     "text": "#/pages/home/home",
+     "shot": "",
+     "route": "/pages/account/saleList"
+    },
+    {
+     "trigger": "数藏售出",
+     "kind": "api",
+     "text": "4f8beda766",
+     "shot": "",
+     "route": "/pages/account/saleList"
+    },
+    {
+     "trigger": "已售出",
+     "kind": "api",
+     "text": "4f8beda766",
+     "shot": "",
+     "route": "/pages/account/saleList"
+    }
+   ]
+  },
+  {
+   "route": "/pages/account/service",
+   "file": "pages-account-service.html",
+   "tested": 4,
+   "states": [
+    {
+     "trigger": "",
+     "kind": "nav",
+     "text": "#/pages/home/home",
+     "shot": "",
+     "route": "/pages/account/service"
+    },
+    {
+     "trigger": "客服 QQ： 2059629312",
+     "kind": "uni-toast",
+     "text": "QQ号已复制",
+     "size": "390x664",
+     "shot": "pages_account_service__uni-toast__QQ号已复制.png",
+     "n": 1,
+     "route": "/pages/account/service"
+    },
+    {
+     "trigger": "客服邮箱： 2059629312@qq.com",
+     "kind": "uni-toast",
+     "text": "邮箱已复制",
+     "size": "390x664",
+     "shot": "pages_account_service__uni-toast__邮箱已复制.png",
+     "n": 1,
+     "route": "/pages/account/service"
+    }
+   ]
+  },
+  {
+   "route": "/pages/account/setting",
+   "file": "pages-account-setting.html",
+   "tested": 5,
+   "states": [
+    {
+     "trigger": "",
+     "kind": "nav",
+     "text": "#/pages/home/home",
+     "shot": "",
+     "route": "/pages/account/setting"
+    },
+    {
+     "trigger": "实名认证",
+     "kind": "nav",
+     "text": "#/pages/account/realname",
+     "shot": "",
+     "route": "/pages/account/setting"
+    },
+    {
+     "trigger": "设置支付密码",
+     "kind": "nav",
+     "text": "#/pages/account/safePass",
+     "shot": "",
+     "route": "/pages/account/setting"
+    },
+    {
+     "trigger": "重置登录密码",
+     "kind": "nav",
+     "text": "#/pages/login/forget",
+     "shot": "",
+     "route": "/pages/account/setting"
+    },
+    {
+     "trigger": "注销账号",
+     "kind": "uni-modal",
+     "text": "提示 注销后账号数据将无法恢复，确定要注销吗？ 取消 注销",
+     "size": "390x664",
+     "shot": "pages_account_setting__uni-modal__提示_注销后账号数据将无法恢复，确定要注销吗？_取消_注销.png",
+     "n": 1,
+     "route": "/pages/account/setting"
+    },
+    {
+     "trigger": "注销账号",
+     "kind": "custom",
+     "text": "提示 注销后账号数据将无法恢复，确定要注销吗？ 取消 注销",
+     "size": "300x172",
+     "shot": "pages_account_setting__custom__提示_注销后账号数据将无法恢复，确定要注销吗？_取消_注销.png",
+     "n": 1,
+     "route": "/pages/account/setting"
+    },
+    {
+     "trigger": "注销账号",
+     "kind": "custom",
+     "text": "提示",
+     "size": "300x43",
+     "shot": "pages_account_setting__custom__提示.png",
+     "n": 1,
+     "route": "/pages/account/setting"
+    },
+    {
+     "trigger": "注销账号",
+     "kind": "custom",
+     "text": "注销后账号数据将无法恢复，确定要注销吗？",
+     "size": "300x81",
+     "shot": "pages_account_setting__custom__注销后账号数据将无法恢复，确定要注销吗？.png",
+     "n": 1,
+     "route": "/pages/account/setting"
+    },
+    {
+     "trigger": "注销账号",
+     "kind": "custom",
+     "text": "取消 注销",
+     "size": "300x48",
+     "shot": "pages_account_setting__custom__取消_注销.png",
+     "n": 1,
+     "route": "/pages/account/setting"
+    }
+   ]
+  },
+  {
+   "route": "/pages/account/user",
+   "file": "pages-account-user.html",
+   "tested": 6,
+   "states": [
+    {
+     "trigger": "",
+     "kind": "nav",
+     "text": "#/pages/home/home",
+     "shot": "",
+     "route": "/pages/account/user"
+    },
+    {
+     "trigger": "",
+     "kind": "uni-toast",
+     "text": "复制成功",
+     "size": "390x664",
+     "shot": "pages_account_user__uni-toast__复制成功.png",
+     "n": 1,
+     "route": "/pages/account/user"
+    }
+   ]
+  },
+  {
+   "route": "/pages/activity/activity",
+   "file": "pages-activity-activity.html",
+   "tested": 4,
+   "states": [
+    {
+     "trigger": "",
+     "kind": "nav",
+     "text": "#/pages/home/home",
+     "shot": "",
+     "route": "/pages/activity/activity"
+    },
+    {
+     "trigger": "分解活动",
+     "kind": "api",
+     "text": "ca5a5a5a77",
+     "shot": "",
+     "route": "/pages/activity/activity"
+    },
+    {
+     "trigger": "置换活动",
+     "kind": "api",
+     "text": "ca5a5a5a77",
+     "shot": "",
+     "route": "/pages/activity/activity"
+    },
+    {
+     "trigger": "分解活动 置换活动",
+     "kind": "api",
+     "text": "ca5a5a5a77",
+     "shot": "",
+     "route": "/pages/activity/activity"
+    }
+   ]
+  },
+  {
+   "route": "/pages/address/add",
+   "file": "pages-address-add.html",
+   "tested": 8,
+   "states": [
+    {
+     "trigger": "",
+     "kind": "nav",
+     "text": "#/pages/home/home",
+     "shot": "",
+     "route": "/pages/address/add"
+    },
+    {
+     "trigger": "保存",
+     "kind": "uni-toast",
+     "text": "请填写收货人姓名",
+     "size": "390x664",
+     "shot": "pages_address_add__uni-toast__请填写收货人姓名.png",
+     "n": 1,
+     "route": "/pages/address/add"
+    }
+   ]
+  },
+  {
+   "route": "/pages/colorfulMix/colorfulMix",
+   "file": "pages-colorfulMix-colorfulMix.html",
+   "tested": 8,
+   "states": [
+    {
+     "trigger": "抽签活动 限量藏品资格抽取",
+     "kind": "nav",
+     "text": "#/pages/drawlots/drawlots",
+     "shot": "",
+     "route": "/pages/colorfulMix/colorfulMix"
+    },
+    {
+     "trigger": "积分商城 商城兑好礼",
+     "kind": "nav",
+     "text": "#/pages/integral/integral",
+     "shot": "",
+     "route": "/pages/colorfulMix/colorfulMix"
+    },
+    {
+     "trigger": "",
+     "kind": "uni-toast",
+     "text": "活动未开始",
+     "size": "390x664",
+     "shot": "pages_colorfulMix_colorfulMix__uni-toast__活动未开始.png",
+     "n": 1,
+     "route": "/pages/colorfulMix/colorfulMix"
+    },
+    {
+     "trigger": "",
+     "kind": "nav",
+     "text": "#/pages/account/invite",
+     "shot": "",
+     "route": "/pages/colorfulMix/colorfulMix"
+    },
+    {
+     "trigger": "首页",
+     "kind": "nav",
+     "text": "#/pages/home/home",
+     "shot": "",
+     "route": "/pages/colorfulMix/colorfulMix"
+    }
+   ]
+  },
+  {
+   "route": "/pages/colorfulMix/community",
+   "file": "pages-colorfulMix-community.html",
+   "tested": 4,
+   "states": [
+    {
+     "trigger": "",
+     "kind": "nav",
+     "text": "#/pages/home/home",
+     "shot": "",
+     "route": "/pages/colorfulMix/community"
+    }
+   ]
+  },
+  {
+   "route": "/pages/colorfulMix/details",
+   "file": "pages-colorfulMix-details.html",
+   "tested": 7,
+   "states": [
+    {
+     "trigger": "",
+     "kind": "nav",
+     "text": "#/pages/home/home",
+     "shot": "",
+     "route": "/pages/colorfulMix/details"
+    },
+    {
+     "trigger": "确认",
+     "kind": "uni-toast",
+     "text": "合成数量不足",
+     "size": "390x664",
+     "shot": "pages_colorfulMix_details__uni-toast__合成数量不足.png",
+     "n": 1,
+     "route": "/pages/colorfulMix/details"
+    }
+   ]
+  },
+  {
+   "route": "/pages/colorfulMix/group",
+   "file": "pages-colorfulMix-group.html",
+   "tested": 2,
+   "states": [
+    {
+     "trigger": "",
+     "kind": "nav",
+     "text": "#/pages/home/home",
+     "shot": "",
+     "route": "/pages/colorfulMix/group"
+    }
+   ]
+  },
+  {
+   "route": "/pages/colorfulMix/index",
+   "file": "pages-colorfulMix-index.html",
+   "tested": 1,
+   "states": []
+  },
+  {
+   "route": "/pages/colorfulMix/result",
+   "file": "pages-colorfulMix-result.html",
+   "tested": 2,
+   "states": [
+    {
+     "trigger": "",
+     "kind": "nav",
+     "text": "#/",
+     "shot": "",
+     "route": "/pages/colorfulMix/result"
+    }
+   ]
+  },
+  {
+   "route": "/pages/common/emptyPage",
+   "file": "pages-common-emptyPage.html",
+   "tested": 2,
+   "states": [
+    {
+     "trigger": "",
+     "kind": "nav",
+     "text": "#/pages/home/home",
+     "shot": "",
+     "route": "/pages/common/emptyPage"
+    }
+   ]
+  },
+  {
+   "route": "/pages/community/community",
+   "file": "pages-community-community.html",
+   "tested": 2,
+   "states": [
+    {
+     "trigger": "",
+     "kind": "nav",
+     "text": "#/pages/home/home",
+     "shot": "",
+     "route": "/pages/community/community"
+    }
+   ]
+  },
+  {
+   "route": "/pages/download/download",
+   "file": "pages-download-download.html",
+   "tested": 2,
+   "states": [
+    {
+     "trigger": "",
+     "kind": "nav",
+     "text": "#/pages/home/home",
+     "shot": "",
+     "route": "/pages/download/download"
+    }
+   ]
+  },
+  {
+   "route": "/pages/drawPrize/drawPrize",
+   "file": "pages-drawPrize-drawPrize.html",
+   "tested": 6,
+   "states": [
+    {
+     "trigger": "",
+     "kind": "nav",
+     "text": "#/pages/home/home",
+     "shot": "",
+     "route": "/pages/drawPrize/drawPrize"
+    },
+    {
+     "trigger": "规则",
+     "kind": "uni-toast",
+     "text": "活动未开始",
+     "size": "390x664",
+     "shot": "",
+     "n": 2,
+     "route": "/pages/drawPrize/drawPrize"
+    },
+    {
+     "trigger": "记录",
+     "kind": "nav",
+     "text": "#/pages/drawPrize/records",
+     "shot": "",
+     "route": "/pages/drawPrize/drawPrize"
+    },
+    {
+     "trigger": "",
+     "kind": "uni-toast",
+     "text": "暂无抽奖活动",
+     "size": "390x664",
+     "shot": "pages_drawPrize_drawPrize__uni-toast__暂无抽奖活动.png",
+     "n": 1,
+     "route": "/pages/drawPrize/drawPrize"
+    },
+    {
+     "trigger": "",
+     "kind": "uni-toast",
+     "text": "活动未开始",
+     "size": "390x664",
+     "shot": "",
+     "n": 3,
+     "route": "/pages/drawPrize/drawPrize"
+    }
+   ]
+  },
+  {
+   "route": "/pages/drawlots/details",
+   "file": "pages-drawlots-details.html",
+   "tested": 4,
+   "states": []
+  },
+  {
+   "route": "/pages/drawlots/drawlots",
+   "file": "pages-drawlots-drawlots.html",
+   "tested": 1,
+   "states": [
+    {
+     "trigger": "",
+     "kind": "nav",
+     "text": "#/pages/home/home",
+     "shot": "",
+     "route": "/pages/drawlots/drawlots"
+    }
+   ]
+  },
+  {
+   "route": "/pages/entrust/entrust",
+   "file": "pages-entrust-entrust.html",
+   "tested": 1,
+   "states": [
+    {
+     "trigger": "",
+     "kind": "nav",
+     "text": "#/pages/home/home",
+     "shot": "",
+     "route": "/pages/entrust/entrust"
+    }
+   ]
+  },
+  {
+   "route": "/pages/home/home",
+   "file": "pages-home-home.html",
+   "tested": 8,
+   "states": [
+    {
+     "trigger": "ICard 搜索",
+     "kind": "nav",
+     "text": "#/pages/search/search",
+     "shot": "",
+     "route": "/pages/home/home"
+    },
+    {
+     "trigger": "数字艺术",
+     "kind": "api",
+     "text": "55566f961c",
+     "shot": "",
+     "route": "/pages/home/home"
+    },
+    {
+     "trigger": "精选礼遇",
+     "kind": "api",
+     "text": "55566f961c",
+     "shot": "",
+     "route": "/pages/home/home"
+    }
+   ]
+  },
+  {
+   "route": "/pages/index/index",
+   "file": "pages-index-index.html",
+   "tested": 8,
+   "states": [
+    {
+     "trigger": "ICard 搜索",
+     "kind": "nav",
+     "text": "#/pages/search/search",
+     "shot": "",
+     "route": "/pages/index/index"
+    },
+    {
+     "trigger": "爱卡好物",
+     "kind": "nav",
+     "text": "#/pages/home/home",
+     "shot": "",
+     "route": "/pages/index/index"
+    },
+    {
+     "trigger": "数字艺术",
+     "kind": "nav",
+     "text": "#/pages/home/home",
+     "shot": "",
+     "route": "/pages/index/index"
+    },
+    {
+     "trigger": "精选礼遇",
+     "kind": "nav",
+     "text": "#/pages/home/home",
+     "shot": "",
+     "route": "/pages/index/index"
+    },
+    {
+     "trigger": "ICARD联名高端定制手机壳iPhone ¥19",
+     "kind": "nav",
+     "text": "#/pages/home/home",
+     "shot": "",
+     "route": "/pages/index/index"
+    },
+    {
+     "trigger": "坐姿宇航员看书太空人大型装饰摆件潮流单品 ¥19",
+     "kind": "nav",
+     "text": "#/pages/home/home",
+     "shot": "",
+     "route": "/pages/index/index"
+    },
+    {
+     "trigger": "三角洲行动手办模型盲盒六一儿童节礼物 ¥99",
+     "kind": "nav",
+     "text": "#/pages/home/home",
+     "shot": "",
+     "route": "/pages/index/index"
+    },
+    {
+     "trigger": "潮玩积木TOPTOY兔破未来半解剖拼装 ¥199",
+     "kind": "nav",
+     "text": "#/pages/home/home",
+     "shot": "",
+     "route": "/pages/index/index"
+    }
+   ]
+  },
+  {
+   "route": "/pages/integral/Get",
+   "file": "pages-integral-Get.html",
+   "tested": 7,
+   "states": [
+    {
+     "trigger": "",
+     "kind": "nav",
+     "text": "#/pages/home/home",
+     "shot": "",
+     "route": "/pages/integral/Get"
+    }
+   ]
+  },
+  {
+   "route": "/pages/integral/details",
+   "file": "pages-integral-details.html",
+   "tested": 8,
+   "states": []
+  },
+  {
+   "route": "/pages/integral/integral",
+   "file": "pages-integral-integral.html",
+   "tested": 6,
+   "states": [
+    {
+     "trigger": "",
+     "kind": "nav",
+     "text": "#/pages/home/home",
+     "shot": "",
+     "route": "/pages/integral/integral"
+    },
+    {
+     "trigger": "搜索",
+     "kind": "api",
+     "text": "07f41a28fa",
+     "shot": "",
+     "route": "/pages/integral/integral"
+    }
+   ]
+  },
+  {
+   "route": "/pages/integral/my",
+   "file": "pages-integral-my.html",
+   "tested": 5,
+   "states": []
+  },
+  {
+   "route": "/pages/integral/records",
+   "file": "pages-integral-records.html",
+   "tested": 1,
+   "states": [
+    {
+     "trigger": "",
+     "kind": "nav",
+     "text": "#/pages/home/home",
+     "shot": "",
+     "route": "/pages/integral/records"
+    }
+   ]
+  },
+  {
+   "route": "/pages/invite/invite",
+   "file": "pages-invite-invite.html",
+   "tested": 4,
+   "states": [
+    {
+     "trigger": "",
+     "kind": "nav",
+     "text": "#/",
+     "shot": "",
+     "route": "/pages/invite/invite"
+    },
+    {
+     "trigger": "复制链接",
+     "kind": "uni-toast",
+     "text": "复制成功",
+     "size": "390x664",
+     "shot": "",
+     "n": 2,
+     "route": "/pages/invite/invite"
+    },
+    {
+     "trigger": "保存二维码",
+     "kind": "uni-toast",
+     "text": "正在下载",
+     "size": "390x664",
+     "shot": "pages_invite_invite__uni-toast__正在下载.png",
+     "n": 1,
+     "route": "/pages/invite/invite"
+    },
+    {
+     "trigger": "邀请好友",
+     "kind": "uni-toast",
+     "text": "复制成功",
+     "size": "390x664",
+     "shot": "",
+     "n": 3,
+     "route": "/pages/invite/invite"
+    }
+   ]
+  },
+  {
+   "route": "/pages/invite/list",
+   "file": "pages-invite-list.html",
+   "tested": 5,
+   "states": [
+    {
+     "trigger": "",
+     "kind": "nav",
+     "text": "#/",
+     "shot": "",
+     "route": "/pages/invite/list"
+    },
+    {
+     "trigger": "去邀请",
+     "kind": "uni-toast",
+     "text": "page不能为空",
+     "size": "390x664",
+     "shot": "pages_invite_list__uni-toast__page不能为空.png",
+     "n": 1,
+     "route": "/pages/invite/list"
+    }
+   ]
+  },
+  {
+   "route": "/pages/login/forget",
+   "file": "pages-login-forget.html",
+   "tested": 3,
+   "states": [
+    {
+     "trigger": "",
+     "kind": "nav",
+     "text": "#/pages/home/home",
+     "shot": "",
+     "route": "/pages/login/forget"
+    },
+    {
+     "trigger": "确认",
+     "kind": "uni-toast",
+     "text": "请输入手机号",
+     "size": "390x664",
+     "shot": "",
+     "n": 2,
+     "route": "/pages/login/forget"
+    },
+    {
+     "trigger": "获取验证码",
+     "kind": "uni-toast",
+     "text": "请输入正确的手机号",
+     "size": "390x664",
+     "shot": "",
+     "n": 2,
+     "route": "/pages/login/forget"
+    }
+   ]
+  },
+  {
+   "route": "/pages/login/login",
+   "file": "pages-login-login.html",
+   "tested": 8,
+   "states": [
+    {
+     "trigger": "登录",
+     "kind": "uni-toast",
+     "text": "请输入账号",
+     "size": "390x664",
+     "shot": "pages_login_login__uni-toast__请输入账号.png",
+     "n": 1,
+     "route": "/pages/login/login"
+    },
+    {
+     "trigger": "注册账号",
+     "kind": "nav",
+     "text": "#/pages/login/register",
+     "shot": "",
+     "route": "/pages/login/login"
+    },
+    {
+     "trigger": "忘记密码?",
+     "kind": "nav",
+     "text": "#/pages/login/forget",
+     "shot": "",
+     "route": "/pages/login/login"
+    },
+    {
+     "trigger": "《用户协议》",
+     "kind": "nav",
+     "text": "#/pages/webview/Policy?type=1",
+     "shot": "",
+     "route": "/pages/login/login"
+    },
+    {
+     "trigger": "《隐私政策》",
+     "kind": "nav",
+     "text": "#/pages/webview/Policy?type=2",
+     "shot": "",
+     "route": "/pages/login/login"
+    }
+   ]
+  },
+  {
+   "route": "/pages/login/register",
+   "file": "pages-login-register.html",
+   "tested": 8,
+   "states": [
+    {
+     "trigger": "",
+     "kind": "nav",
+     "text": "#/pages/home/home",
+     "shot": "",
+     "route": "/pages/login/register"
+    },
+    {
+     "trigger": "注册",
+     "kind": "uni-toast",
+     "text": "请输入手机号",
+     "size": "390x664",
+     "shot": "",
+     "n": 3,
+     "route": "/pages/login/register"
+    },
+    {
+     "trigger": "已有账号，去登录",
+     "kind": "nav",
+     "text": "#/pages/login/login",
+     "shot": "",
+     "route": "/pages/login/register"
+    },
+    {
+     "trigger": "《用户协议》",
+     "kind": "nav",
+     "text": "#/pages/webview/Policy?type=1",
+     "shot": "",
+     "route": "/pages/login/register"
+    },
+    {
+     "trigger": "《隐私政策》",
+     "kind": "nav",
+     "text": "#/pages/webview/Policy?type=2",
+     "shot": "",
+     "route": "/pages/login/register"
+    },
+    {
+     "trigger": "获取验证码",
+     "kind": "uni-toast",
+     "text": "请输入正确的手机号",
+     "size": "390x664",
+     "shot": "",
+     "n": 3,
+     "route": "/pages/login/register"
+    },
+    {
+     "trigger": "已有账号，去登录",
+     "kind": "nav",
+     "text": "#/pages/login/login",
+     "shot": "",
+     "route": "/pages/login/register"
+    }
+   ]
+  },
+  {
+   "route": "/pages/market/Consignment",
+   "file": "pages-market-Consignment.html",
+   "tested": 2,
+   "states": [
+    {
+     "trigger": "",
+     "kind": "nav",
+     "text": "#/pages/home/home",
+     "shot": "",
+     "route": "/pages/market/Consignment"
+    }
+   ]
+  },
+  {
+   "route": "/pages/market/batchBuy",
+   "file": "pages-market-batchBuy.html",
+   "tested": 8,
+   "states": [
+    {
+     "trigger": "",
+     "kind": "nav",
+     "text": "#/pages/home/home",
+     "shot": "",
+     "route": "/pages/market/batchBuy"
+    },
+    {
+     "trigger": "立即购买",
+     "kind": "uni-toast",
+     "text": "请输入购买数量",
+     "size": "390x664",
+     "shot": "pages_market_batchBuy__uni-toast__请输入购买数量.png",
+     "n": 1,
+     "route": "/pages/market/batchBuy"
+    }
+   ]
+  },
+  {
+   "route": "/pages/market/cardMap",
+   "file": "pages-market-cardMap.html",
+   "tested": 1,
+   "states": [
+    {
+     "trigger": "",
+     "kind": "nav",
+     "text": "#/",
+     "shot": "",
+     "route": "/pages/market/cardMap"
+    }
+   ]
+  },
+  {
+   "route": "/pages/market/confirmorder",
+   "file": "pages-market-confirmorder.html",
+   "tested": 8,
+   "states": [
+    {
+     "trigger": "",
+     "kind": "nav",
+     "text": "#/pages/home/home",
+     "shot": "",
+     "route": "/pages/market/confirmorder"
+    },
+    {
+     "trigger": "《服务协议》",
+     "kind": "nav",
+     "text": "#/pages/webview/Policy?type=1",
+     "shot": "",
+     "route": "/pages/market/confirmorder"
+    },
+    {
+     "trigger": "立即购买",
+     "kind": "uni-toast",
+     "text": "product_id不能为空",
+     "size": "390x664",
+     "shot": "pages_market_confirmorder__uni-toast__product_id不能为空.png",
+     "n": 1,
+     "route": "/pages/market/confirmorder"
+    }
+   ]
+  },
+  {
+   "route": "/pages/market/createOrder",
+   "file": "pages-market-createOrder.html",
+   "tested": 2,
+   "states": []
+  },
+  {
+   "route": "/pages/market/details",
+   "file": "pages-market-details.html",
+   "tested": 8,
+   "states": [
+    {
+     "trigger": "挂单列表",
+     "kind": "uni-toast",
+     "text": "product_id不能为空",
+     "size": "390x664",
+     "shot": "",
+     "n": 2,
+     "route": "/pages/market/details"
+    },
+    {
+     "trigger": "相关公告",
+     "kind": "api",
+     "text": "08eec40a5e",
+     "shot": "",
+     "route": "/pages/market/details"
+    }
+   ]
+  },
+  {
+   "route": "/pages/market/goodsDetails",
+   "file": "pages-market-goodsDetails.html",
+   "tested": 8,
+   "states": []
+  },
+  {
+   "route": "/pages/market/market",
+   "file": "pages-market-market.html",
+   "tested": 8,
+   "states": [
+    {
+     "trigger": "搜索",
+     "kind": "api",
+     "text": "58e3fa24c3",
+     "shot": "",
+     "route": "/pages/market/market"
+    },
+    {
+     "trigger": "自由市场",
+     "kind": "api",
+     "text": "58e3fa24c3",
+     "shot": "",
+     "route": "/pages/market/market"
+    },
+    {
+     "trigger": "我的关注",
+     "kind": "api",
+     "text": "58e3fa24c3",
+     "shot": "",
+     "route": "/pages/market/market"
+    },
+    {
+     "trigger": "地板价",
+     "kind": "api",
+     "text": "58e3fa24c3",
+     "shot": "",
+     "route": "/pages/market/market"
+    },
+    {
+     "trigger": "成交量",
+     "kind": "api",
+     "text": "58e3fa24c3",
+     "shot": "",
+     "route": "/pages/market/market"
+    }
+   ]
+  },
+  {
+   "route": "/pages/market/physicalGoodsDetails",
+   "file": "pages-market-physicalGoodsDetails.html",
+   "tested": 4,
+   "states": [
+    {
+     "trigger": "立即购买",
+     "kind": "uni-toast",
+     "text": "暂未开放",
+     "size": "390x664",
+     "shot": "pages_market_physicalGoodsDetails__uni-toast__暂未开放.png",
+     "n": 1,
+     "route": "/pages/market/physicalGoodsDetails"
+    }
+   ]
+  },
+  {
+   "route": "/pages/market/sale",
+   "file": "pages-market-sale.html",
+   "tested": 2,
+   "states": [
+    {
+     "trigger": "",
+     "kind": "nav",
+     "text": "#/",
+     "shot": "",
+     "route": "/pages/market/sale"
+    }
+   ]
+  },
+  {
+   "route": "/pages/market/saleResult",
+   "file": "pages-market-saleResult.html",
+   "tested": 2,
+   "states": [
+    {
+     "trigger": "",
+     "kind": "nav",
+     "text": "#/",
+     "shot": "",
+     "route": "/pages/market/saleResult"
+    }
+   ]
+  },
+  {
+   "route": "/pages/market/submitBegBuy",
+   "file": "pages-market-submitBegBuy.html",
+   "tested": 1,
+   "states": [
+    {
+     "trigger": "",
+     "kind": "nav",
+     "text": "#/pages/home/home",
+     "shot": "",
+     "route": "/pages/market/submitBegBuy"
+    }
+   ]
+  },
+  {
+   "route": "/pages/market/transactionParticulars",
+   "file": "pages-market-transactionParticulars.html",
+   "tested": 5,
+   "states": [
+    {
+     "trigger": "",
+     "kind": "nav",
+     "text": "#/",
+     "shot": "",
+     "route": "/pages/market/transactionParticulars"
+    }
+   ]
+  },
+  {
+   "route": "/pages/mix/details",
+   "file": "pages-mix-details.html",
+   "tested": 7,
+   "states": [
+    {
+     "trigger": "",
+     "kind": "nav",
+     "text": "#/pages/home/home",
+     "shot": "",
+     "route": "/pages/mix/details"
+    },
+    {
+     "trigger": "确认",
+     "kind": "uni-toast",
+     "text": "置换数量不足",
+     "size": "390x664",
+     "shot": "pages_mix_details__uni-toast__置换数量不足.png",
+     "n": 1,
+     "route": "/pages/mix/details"
+    }
+   ]
+  },
+  {
+   "route": "/pages/mix/mix",
+   "file": "pages-mix-mix.html",
+   "tested": 2,
+   "states": [
+    {
+     "trigger": "",
+     "kind": "nav",
+     "text": "#/pages/home/home",
+     "shot": "",
+     "route": "/pages/mix/mix"
+    }
+   ]
+  },
+  {
+   "route": "/pages/mix/records",
+   "file": "pages-mix-records.html",
+   "tested": 1,
+   "states": [
+    {
+     "trigger": "",
+     "kind": "nav",
+     "text": "#/",
+     "shot": "",
+     "route": "/pages/mix/records"
+    }
+   ]
+  },
+  {
+   "route": "/pages/mix/result",
+   "file": "pages-mix-result.html",
+   "tested": 2,
+   "states": [
+    {
+     "trigger": "",
+     "kind": "nav",
+     "text": "#/",
+     "shot": "",
+     "route": "/pages/mix/result"
+    }
+   ]
+  },
+  {
+   "route": "/pages/notification/details",
+   "file": "pages-notification-details.html",
+   "tested": 1,
+   "states": [
+    {
+     "trigger": "",
+     "kind": "nav",
+     "text": "#/",
+     "shot": "",
+     "route": "/pages/notification/details"
+    }
+   ]
+  },
+  {
+   "route": "/pages/notification/notification",
+   "file": "pages-notification-notification.html",
+   "tested": 8,
+   "states": [
+    {
+     "trigger": "",
+     "kind": "api",
+     "text": "08eec40a5e",
+     "shot": "",
+     "route": "/pages/notification/notification"
+    },
+    {
+     "trigger": "",
+     "kind": "nav",
+     "text": "#/pages/account/service",
+     "shot": "",
+     "route": "/pages/notification/notification"
+    },
+    {
+     "trigger": "全部",
+     "kind": "api",
+     "text": "08eec40a5e",
+     "shot": "",
+     "route": "/pages/notification/notification"
+    },
+    {
+     "trigger": "寄售公告",
+     "kind": "api",
+     "text": "08eec40a5e",
+     "shot": "",
+     "route": "/pages/notification/notification"
+    },
+    {
+     "trigger": "上新公告",
+     "kind": "api",
+     "text": "08eec40a5e",
+     "shot": "",
+     "route": "/pages/notification/notification"
+    },
+    {
+     "trigger": "活动公告",
+     "kind": "api",
+     "text": "08eec40a5e",
+     "shot": "",
+     "route": "/pages/notification/notification"
+    },
+    {
+     "trigger": "运营公告",
+     "kind": "api",
+     "text": "08eec40a5e",
+     "shot": "",
+     "route": "/pages/notification/notification"
+    },
+    {
+     "trigger": "辟谣公告",
+     "kind": "api",
+     "text": "08eec40a5e",
+     "shot": "",
+     "route": "/pages/notification/notification"
+    }
+   ]
+  },
+  {
+   "route": "/pages/salvage/details",
+   "file": "pages-salvage-details.html",
+   "tested": 7,
+   "states": [
+    {
+     "trigger": "",
+     "kind": "nav",
+     "text": "#/pages/home/home",
+     "shot": "",
+     "route": "/pages/salvage/details"
+    },
+    {
+     "trigger": "确认",
+     "kind": "uni-toast",
+     "text": "分解数量不足",
+     "size": "390x664",
+     "shot": "pages_salvage_details__uni-toast__分解数量不足.png",
+     "n": 1,
+     "route": "/pages/salvage/details"
+    }
+   ]
+  },
+  {
+   "route": "/pages/salvage/records",
+   "file": "pages-salvage-records.html",
+   "tested": 1,
+   "states": [
+    {
+     "trigger": "",
+     "kind": "nav",
+     "text": "#/",
+     "shot": "",
+     "route": "/pages/salvage/records"
+    }
+   ]
+  },
+  {
+   "route": "/pages/salvage/salvage",
+   "file": "pages-salvage-salvage.html",
+   "tested": 3,
+   "states": [
+    {
+     "trigger": "",
+     "kind": "nav",
+     "text": "#/pages/home/home",
+     "shot": "",
+     "route": "/pages/salvage/salvage"
+    }
+   ]
+  },
+  {
+   "route": "/pages/search/search",
+   "file": "pages-search-search.html",
+   "tested": 5,
+   "states": [
+    {
+     "trigger": "",
+     "kind": "nav",
+     "text": "#/pages/home/home",
+     "shot": "",
+     "route": "/pages/search/search"
+    }
+   ]
+  },
+  {
+   "route": "/pages/todayrank/todayrank",
+   "file": "pages-todayrank-todayrank.html",
+   "tested": 4,
+   "states": [
+    {
+     "trigger": "",
+     "kind": "api",
+     "text": "a5a3ec16bd,545d9c1079",
+     "shot": "",
+     "route": "/pages/todayrank/todayrank"
+    }
+   ]
+  },
+  {
+   "route": "/pages/wallet/thirdWallet",
+   "file": "pages-wallet-thirdWallet.html",
+   "tested": 3,
+   "states": [
+    {
+     "trigger": "",
+     "kind": "nav",
+     "text": "#/pages/home/home",
+     "shot": "",
+     "route": "/pages/wallet/thirdWallet"
+    }
+   ]
+  },
+  {
+   "route": "/pages/wallet/wallet",
+   "file": "pages-wallet-wallet.html",
+   "tested": 2,
+   "states": [
+    {
+     "trigger": "",
+     "kind": "nav",
+     "text": "#/pages/home/home",
+     "shot": "",
+     "route": "/pages/wallet/wallet"
+    },
+    {
+     "trigger": "",
+     "kind": "nav",
+     "text": "",
+     "shot": "",
+     "route": "/pages/wallet/wallet"
+    }
+   ]
+  },
+  {
+   "route": "/pages/wallet/wallet1",
+   "file": "pages-wallet-wallet1.html",
+   "tested": 2,
+   "states": [
+    {
+     "trigger": "",
+     "kind": "nav",
+     "text": "#/pages/home/home",
+     "shot": "",
+     "route": "/pages/wallet/wallet1"
+    },
+    {
+     "trigger": "",
+     "kind": "uni-toast",
+     "text": "正在加载",
+     "size": "390x664",
+     "shot": "pages_wallet_wallet1__uni-toast__正在加载.png",
+     "n": 1,
+     "route": "/pages/wallet/wallet1"
+    }
+   ]
+  },
+  {
+   "route": "/pages/webview/Policy",
+   "file": "pages-webview-Policy.html",
+   "tested": 1,
+   "states": [
+    {
+     "trigger": "",
+     "kind": "nav",
+     "text": "#/pages/home/home",
+     "shot": "",
+     "route": "/pages/webview/Policy"
+    }
+   ]
+  },
+  {
+   "route": "/pages/webview/webview",
+   "file": "pages-webview-webview.html",
+   "tested": 1,
+   "states": [
+    {
+     "trigger": "",
+     "kind": "nav",
+     "text": "#/",
+     "shot": "",
+     "route": "/pages/webview/webview"
+    }
+   ]
+  },
+  {
+   "route": "/pages/Announcement/details",
+   "file": "pages-Announcement-details.html",
+   "tested": 1,
+   "states": []
+  },
+  {
+   "route": "/pages/Transformation/Transformation",
+   "file": "pages-Transformation-Transformation.html",
+   "tested": 7,
+   "states": [
+    {
+     "trigger": "确认",
+     "kind": "api",
+     "text": "b8c52b6e05",
+     "shot": "",
+     "route": "/pages/Transformation/Transformation"
+    }
+   ]
+  },
+  {
+   "route": "/pages/account/invite",
+   "file": "pages-account-invite.html",
+   "tested": 7,
+   "states": [
+    {
+     "trigger": "",
+     "kind": "nav",
+     "text": "#/pages/home/home",
+     "shot": "",
+     "route": "/pages/account/invite"
+    },
+    {
+     "trigger": "",
+     "kind": "uni-toast",
+     "text": "复制成功",
+     "size": "390x664",
+     "shot": "pages_account_invite__uni-toast__复制成功.png",
+     "n": 1,
+     "route": "/pages/account/invite"
+    }
+   ]
+  },
+  {
+   "route": "/pages/address/address",
+   "file": "pages-address-address.html",
+   "tested": 2,
+   "states": [
+    {
+     "trigger": "",
+     "kind": "nav",
+     "text": "#/pages/home/home",
+     "shot": "",
+     "route": "/pages/address/address"
+    },
+    {
+     "trigger": "添加收货地址",
+     "kind": "custom",
+     "text": "北京 天津 河北省 山西省 内蒙古自治区 辽宁省 吉林省 黑龙江省 上海 江苏省 浙江省 安徽省 福建省 江西省 山东省 河南省 湖北省 湖南省 广东省 广西壮族自治区 海南省 重",
+     "size": "390x400",
+     "shot": "pages_address_address__custom__北京_天津_河北省_山西省_内蒙古自治区_辽宁省_吉林省_黑龙江省_上海_江苏省.png",
+     "n": 1,
+     "route": "/pages/address/address"
+    },
+    {
+     "trigger": "添加收货地址",
+     "kind": "custom",
+     "text": "北京市",
+     "size": "130x400",
+     "shot": "pages_address_address__custom__北京市.png",
+     "n": 1,
+     "route": "/pages/address/address"
+    },
+    {
+     "trigger": "添加收货地址",
+     "kind": "custom",
+     "text": "东城区 西城区 朝阳区 丰台区 石景山区 海淀区 门头沟区 房山区 通州区 顺义区 昌平区 大兴区 怀柔区 平谷区 密云县 延庆县",
+     "size": "130x925",
+     "shot": "pages_address_address__custom__东城区_西城区_朝阳区_丰台区_石景山区_海淀区_门头沟区_房山区_通州区_顺义.png",
+     "n": 1,
+     "route": "/pages/address/address"
+    }
+   ]
+  },
+  {
+   "route": "/pages/colorfulMix/icardGame",
+   "file": "pages-colorfulMix-icardGame.html",
+   "tested": 8,
+   "states": [
+    {
+     "trigger": "ICard 搜索",
+     "kind": "nav",
+     "text": "#/pages/search/search",
+     "shot": "",
+     "route": "/pages/colorfulMix/icardGame"
+    },
+    {
+     "trigger": "爱卡好物",
+     "kind": "nav",
+     "text": "#/pages/home/home",
+     "shot": "",
+     "route": "/pages/colorfulMix/icardGame"
+    },
+    {
+     "trigger": "数字艺术",
+     "kind": "nav",
+     "text": "#/pages/home/home",
+     "shot": "",
+     "route": "/pages/colorfulMix/icardGame"
+    },
+    {
+     "trigger": "精选礼遇",
+     "kind": "nav",
+     "text": "#/pages/home/home",
+     "shot": "",
+     "route": "/pages/colorfulMix/icardGame"
+    },
+    {
+     "trigger": "ICARD联名高端定制手机壳iPhone ¥19",
+     "kind": "nav",
+     "text": "#/pages/home/home",
+     "shot": "",
+     "route": "/pages/colorfulMix/icardGame"
+    },
+    {
+     "trigger": "坐姿宇航员看书太空人大型装饰摆件潮流单品 ¥19",
+     "kind": "nav",
+     "text": "#/pages/home/home",
+     "shot": "",
+     "route": "/pages/colorfulMix/icardGame"
+    },
+    {
+     "trigger": "三角洲行动手办模型盲盒六一儿童节礼物 ¥99",
+     "kind": "nav",
+     "text": "#/pages/home/home",
+     "shot": "",
+     "route": "/pages/colorfulMix/icardGame"
+    },
+    {
+     "trigger": "潮玩积木TOPTOY兔破未来半解剖拼装 ¥199",
+     "kind": "nav",
+     "text": "#/pages/home/home",
+     "shot": "",
+     "route": "/pages/colorfulMix/icardGame"
+    }
+   ]
+  },
+  {
+   "route": "/pages/colorfulMix/records",
+   "file": "pages-colorfulMix-records.html",
+   "tested": 1,
+   "states": [
+    {
+     "trigger": "",
+     "kind": "nav",
+     "text": "#/pages/home/home",
+     "shot": "",
+     "route": "/pages/colorfulMix/records"
+    }
+   ]
+  },
+  {
+   "route": "/pages/common/aliyunCaptcha",
+   "file": "pages-common-aliyunCaptcha.html",
+   "tested": 1,
+   "states": [
+    {
+     "trigger": "",
+     "kind": "nav",
+     "text": "#/",
+     "shot": "",
+     "route": "/pages/common/aliyunCaptcha"
+    }
+   ]
+  },
+  {
+   "route": "/pages/market/bidDetail",
+   "file": "pages-market-bidDetail.html",
+   "tested": 8,
+   "states": [
+    {
+     "trigger": "",
+     "kind": "nav",
+     "text": "#/pages/home/home",
+     "shot": "",
+     "route": "/pages/market/bidDetail"
+    },
+    {
+     "trigger": "",
+     "kind": "nav",
+     "text": "#/pages/market/bidDetail",
+     "shot": "",
+     "route": "/pages/market/bidDetail"
+    },
+    {
+     "trigger": "《服务协议》",
+     "kind": "nav",
+     "text": "#/pages/webview/Policy?type=1",
+     "shot": "",
+     "route": "/pages/market/bidDetail"
+    },
+    {
+     "trigger": "确认出售",
+     "kind": "uni-toast",
+     "text": "请先选择您要出售的藏品",
+     "size": "390x664",
+     "shot": "pages_market_bidDetail__uni-toast__请先选择您要出售的藏品.png",
+     "n": 1,
+     "route": "/pages/market/bidDetail"
+    }
+   ]
+  },
+  {
+   "route": "/pages/sign/sign",
+   "file": "pages-sign-sign.html",
+   "tested": 6,
+   "states": [
+    {
+     "trigger": "",
+     "kind": "nav",
+     "text": "#/pages/home/home",
+     "shot": "",
+     "route": "/pages/sign/sign"
+    },
+    {
+     "trigger": "今日签到",
+     "kind": "nav",
+     "text": "#/pages/sign/sign",
+     "shot": "",
+     "route": "/pages/sign/sign"
+    }
+   ]
+  }
+ ]
+}

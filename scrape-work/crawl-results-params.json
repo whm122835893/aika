@@ -1,0 +1,61 @@
+[
+ {
+  "route": "/pages/market/details?id=42",
+  "pageName": "pages-market-details-id42",
+  "bytes": 176704,
+  "textLen": 97
+ },
+ {
+  "route": "/pages/market/goodsDetails?id=42",
+  "pageName": "pages-market-goodsDetails-id42",
+  "bytes": 164242,
+  "textLen": 164
+ },
+ {
+  "route": "/pages/market/batchBuy?id=42",
+  "pageName": "pages-market-batchBuy-id42",
+  "bytes": 147935,
+  "textLen": 122
+ },
+ {
+  "route": "/pages/market/confirmorder?id=42",
+  "pageName": "pages-market-confirmorder-id42",
+  "bytes": 153542,
+  "textLen": 78
+ },
+ {
+  "route": "/pages/notification/details?id=153",
+  "pageName": "pages-notification-details-id153",
+  "bytes": 146372,
+  "textLen": 384
+ },
+ {
+  "route": "/pages/notification/details?id=143",
+  "pageName": "pages-notification-details-id143",
+  "bytes": 144763,
+  "textLen": 187
+ },
+ {
+  "route": "/pages/account/orderList?isTabs=1",
+  "pageName": "pages-account-orderList-tabs1",
+  "bytes": 150960,
+  "textLen": 45
+ },
+ {
+  "route": "/pages/account/orderList?isTabs=2",
+  "pageName": "pages-account-orderList-tabs2",
+  "bytes": 150602,
+  "textLen": 42
+ },
+ {
+  "route": "/pages/account/orderList?group=consign",
+  "pageName": "pages-account-orderList-consign",
+  "bytes": 150319,
+  "textLen": 34
+ },
+ {
+  "route": "/pages/colorfulMix/details?id=18",
+  "pageName": "pages-colorfulMix-details-id18",
+  "error": "page.goto: Timeout 45000ms exceeded.\nCall log:\n\u001b[2m  - navigating to \"https://h5.shenyuan.sc.cn/#/pages/colorfulMix/details?id=18\", waiting until \"load\"\u001b[22m\n"
+ }
+]

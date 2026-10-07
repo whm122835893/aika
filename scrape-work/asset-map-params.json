@@ -1,0 +1,268 @@
+{
+ "assets": [
+  [
+   "https://h5.shenyuan.sc.cn/",
+   "/index.html"
+  ],
+  [
+   "https://h5.shenyuan.sc.cn/static/index.149e085d.css",
+   "/static/index.149e085d.css"
+  ],
+  [
+   "https://h5.shenyuan.sc.cn/static/js/index.0dd47030.js",
+   "/static/js/index.0dd47030.js"
+  ],
+  [
+   "https://h5.shenyuan.sc.cn/static/js/chunk-vendors.2a78a84d.js",
+   "/static/js/chunk-vendors.2a78a84d.js"
+  ],
+  [
+   "https://h5.shenyuan.sc.cn/static/js/pages-market-details~pages-market-submitBegBuy.8dc3442c.js",
+   "/static/js/pages-market-details~pages-market-submitBegBuy.8dc3442c.js"
+  ],
+  [
+   "https://cstaticdun.126.net/load.min.js?t=201903281201",
+   "assets/ext/netease/load.min.js"
+  ],
+  [
+   "https://h5.shenyuan.sc.cn/static/js/pages-market-details.8bb668f8.js",
+   "/static/js/pages-market-details.8bb668f8.js"
+  ],
+  [
+   "https://h5.shenyuan.sc.cn/static/images/tabbar/9.png",
+   "/static/images/tabbar/9.png"
+  ],
+  [
+   "https://h5.shenyuan.sc.cn/static/images/tabbar/3.png",
+   "/static/images/tabbar/3.png"
+  ],
+  [
+   "https://h5.shenyuan.sc.cn/static/images/tabbar/11.png",
+   "/static/images/tabbar/11.png"
+  ],
+  [
+   "https://h5.shenyuan.sc.cn/static/images/tabbar/7.png",
+   "/static/images/tabbar/7.png"
+  ],
+  [
+   "https://h5.shenyuan.sc.cn/static/js/pages-Announcement-Announcement~pages-Announcement-details~pages-Announcement-list~pages-Discussion-~3d1debdc.25dc556a.js",
+   "/static/js/pages-Announcement-Announcement~pages-Announcement-details~pages-Announcement-list~pages-Discussion-~3d1debdc.25dc556a.js"
+  ],
+  [
+   "https://h5.shenyuan.sc.cn/static/images/tabbar/2.png",
+   "/static/images/tabbar/2.png"
+  ],
+  [
+   "https://h5.shenyuan.sc.cn/static/images/lock.png",
+   "/static/images/lock.png"
+  ],
+  [
+   "https://h5.shenyuan.sc.cn/static/images/empty1.png",
+   "/static/images/empty1.png"
+  ],
+  [
+   "https://h5.shenyuan.sc.cn/assets/news.a2bc2398.TTF",
+   "/assets/news.a2bc2398.TTF"
+  ],
+  [
+   "https://h5.shenyuan.sc.cn/static/js/pages-account-Warelist~pages-account-blindbox~pages-account-blindboxresult~pages-account-collections~181a975e.c71d47dc.js",
+   "/static/js/pages-account-Warelist~pages-account-blindbox~pages-account-blindboxresult~pages-account-collections~181a975e.c71d47dc.js"
+  ],
+  [
+   "https://h5.shenyuan.sc.cn/static/js/pages-account-Warelist~pages-account-blindbox~pages-account-blindboxresult~pages-account-increase~pa~a4f32bae.ca77e175.js",
+   "/static/js/pages-account-Warelist~pages-account-blindbox~pages-account-blindboxresult~pages-account-increase~pa~a4f32bae.ca77e175.js"
+  ],
+  [
+   "https://h5.shenyuan.sc.cn/static/js/pages-market-goodsDetails.5e52a0ff.js",
+   "/static/js/pages-market-goodsDetails.5e52a0ff.js"
+  ],
+  [
+   "https://h5.shenyuan.sc.cn/static/images/login/2.png",
+   "/static/images/login/2.png"
+  ],
+  [
+   "https://h5.shenyuan.sc.cn/static/images/invite/top1.png",
+   "/static/images/invite/top1.png"
+  ],
+  [
+   "https://h5.shenyuan.sc.cn/static/images/market/icon/bg.png",
+   "/static/images/market/icon/bg.png"
+  ],
+  [
+   "https://cdn.dcloud.net.cn/img/shadow-grey.png",
+   "assets/ext/dcloud/img/shadow-grey.png"
+  ],
+  [
+   "https://h5.shenyuan.sc.cn/static/js/pages-market-batchBuy.a441fcc3.js",
+   "/static/js/pages-market-batchBuy.a441fcc3.js"
+  ],
+  [
+   "https://h5.shenyuan.sc.cn/static/js/pages-market-confirmorder.67cdf8d2.js",
+   "/static/js/pages-market-confirmorder.67cdf8d2.js"
+  ],
+  [
+   "https://h5.shenyuan.sc.cn/static/loading.gif",
+   "/static/loading.gif"
+  ],
+  [
+   "https://h5.shenyuan.sc.cn/static/js/pages-notification-details.63f6b8df.js",
+   "/static/js/pages-notification-details.63f6b8df.js"
+  ],
+  [
+   "https://h5.shenyuan.sc.cn/upload/8ee2c6246e83681c88fccb0ca25ebc1db27d88ab.png",
+   "/upload/8ee2c6246e83681c88fccb0ca25ebc1db27d88ab.png"
+  ],
+  [
+   "https://h5.shenyuan.sc.cn/static/not.jpg",
+   "/static/not.jpg"
+  ],
+  [
+   "https://h5.shenyuan.sc.cn/upload/014670993c94be10445946388f2b610062dfa5b4.png",
+   "/upload/014670993c94be10445946388f2b610062dfa5b4.png"
+  ],
+  [
+   "https://h5.shenyuan.sc.cn/upload/fde3e9210841133dc8ad445ba020d08a81303a06.png",
+   "/upload/fde3e9210841133dc8ad445ba020d08a81303a06.png"
+  ],
+  [
+   "https://h5.shenyuan.sc.cn/upload/d81c74c15ff10ecb194c79b63c56987c8b89f038.png",
+   "/upload/d81c74c15ff10ecb194c79b63c56987c8b89f038.png"
+  ],
+  [
+   "https://h5.shenyuan.sc.cn/upload/a2ff31cdf75776b14e0874c6ac449ac18d54536e.png",
+   "/upload/a2ff31cdf75776b14e0874c6ac449ac18d54536e.png"
+  ],
+  [
+   "https://h5.shenyuan.sc.cn/static/js/pages-account-orderList.d8ad4458.js",
+   "/static/js/pages-account-orderList.d8ad4458.js"
+  ],
+  [
+   "https://h5.shenyuan.sc.cn/static/change.png",
+   "/static/change.png"
+  ],
+  [
+   "https://h5.shenyuan.sc.cn/static/icard.gif",
+   "/static/icard.gif"
+  ],
+  [
+   "https://h5.shenyuan.sc.cn/static/js/pages-Transformation-Transformation~pages-account-open~pages-colorfulMix-details~pages-colorfulMix-i~8bfedd4d.81c5b37e.js",
+   "/static/js/pages-Transformation-Transformation~pages-account-open~pages-colorfulMix-details~pages-colorfulMix-i~8bfedd4d.81c5b37e.js"
+  ],
+  [
+   "https://h5.shenyuan.sc.cn/static/js/pages-colorfulMix-details.fdb9bcb4.js",
+   "/static/js/pages-colorfulMix-details.fdb9bcb4.js"
+  ]
+ ],
+ "api": [
+  [
+   "POST https://api.shenyuan.sc.cn/f3a0536111f2a4f130897f36b86274d8 9761a5c60b8221c4433f5f908329f7d5",
+   {
+    "rel": "assets/api-cache/2bd68cdc97cd9ecf6dad0974c11dc77c.json",
+    "method": "POST",
+    "url": "https://api.shenyuan.sc.cn/f3a0536111f2a4f130897f36b86274d8",
+    "post": "{\"access_open_id\":\"01a10f2b-9314-72b5-a16d-98271413668b\",\"access_token\":\"01a116a5-c436-7161-87eb-a31a856c143e\",\"user_id\":379722,\"trans_id\":\"4fb1cae6-c604-474f-b059-44a11884ec64\",\"timestamp\":1791389581,\"sign\":\"071eb7e5438afabb20cdb4e972e98d36\"}",
+    "page": "pages-market-details-id42"
+   }
+  ],
+  [
+   "POST https://api.shenyuan.sc.cn/082eb0631cbc444e1c7b0dd94f79bbc0 9a704fe1fd6d5ae673f3bfb0576c7440",
+   {
+    "rel": "assets/api-cache/5e300a843bf6dba52a5a0d754d99f3c9.json",
+    "method": "POST",
+    "url": "https://api.shenyuan.sc.cn/082eb0631cbc444e1c7b0dd94f79bbc0",
+    "post": "{\"index\":1,\"limit\":10,\"product_id\":\"\",\"sort_field\":\"mall_price\",\"sort_type\":\"asc\",\"access_open_id\":\"01a10f2b-9314-72b5-a16d-98271413668b\",\"access_token\":\"01a116a5-c436-7161-87eb-a31a856c143e\",\"user_id\":379722,\"trans_id\":\"31a684b0-905f-4ffd-9c31-0ede14a2b8d3\",\"timestamp\":1791389581,\"sign\":\"c186f8872ae222a2b516d2230ce50072\"}",
+    "page": "pages-market-details-id42"
+   }
+  ],
+  [
+   "POST https://api.shenyuan.sc.cn/dec922854904eb47ca6b431e425c2f0e 49cc22fe9043da007aeba778a33cbff1",
+   {
+    "rel": "assets/api-cache/390b454cb09a78aa0fb9d42a26eb22a1.json",
+    "method": "POST",
+    "url": "https://api.shenyuan.sc.cn/dec922854904eb47ca6b431e425c2f0e",
+    "post": "{\"id\":\"42\",\"to_payment\":1,\"access_open_id\":\"01a10f2b-9314-72b5-a16d-98271413668b\",\"access_token\":\"01a116a5-c436-7161-87eb-a31a856c143e\",\"user_id\":379722,\"trans_id\":\"57889404-f326-4026-a1b4-e67481c3206d\",\"timestamp\":1791389628,\"sign\":\"f5de7d6a012a22340f77ebe383f30c11\"}",
+    "page": "pages-market-batchBuy-id42"
+   }
+  ],
+  [
+   "POST https://api.shenyuan.sc.cn/a3861807072a0b127fa6abc78da6bfbd 1354bdecaac8cd62bcd9b914335032f9",
+   {
+    "rel": "assets/api-cache/e1a9ee123c279f6e2e8d3f7bb8e393a5.json",
+    "method": "POST",
+    "url": "https://api.shenyuan.sc.cn/a3861807072a0b127fa6abc78da6bfbd",
+    "post": "{\"key\":\"MAX_BATCH_NUM\",\"group\":\"order_config\",\"access_open_id\":\"01a10f2b-9314-72b5-a16d-98271413668b\",\"access_token\":\"01a116a5-c436-7161-87eb-a31a856c143e\",\"user_id\":379722,\"trans_id\":\"c8772827-110b-4c12-9af4-c278a8b74e9c\",\"timestamp\":1791389628,\"sign\":\"c399a38b4707f59faf58b58b4270c5e7\"}",
+    "page": "pages-market-batchBuy-id42"
+   }
+  ],
+  [
+   "POST https://api.shenyuan.sc.cn/dec922854904eb47ca6b431e425c2f0e 0db2e3a36c13022420519690d4e6b8f1",
+   {
+    "rel": "assets/api-cache/ef9b36c1ff114fa73dbdfcbe595f4d77.json",
+    "method": "POST",
+    "url": "https://api.shenyuan.sc.cn/dec922854904eb47ca6b431e425c2f0e",
+    "post": "{\"access_open_id\":\"01a10f2b-9314-72b5-a16d-98271413668b\",\"access_token\":\"01a116a5-c436-7161-87eb-a31a856c143e\",\"user_id\":379722,\"trans_id\":\"62f2f6d0-bb5e-4035-aca9-10bd79f4c7ba\",\"timestamp\":1791389642,\"sign\":\"ab4316f8ec22fb625930f33255cd36e5\"}",
+    "page": "pages-market-confirmorder-id42"
+   }
+  ],
+  [
+   "POST https://api.shenyuan.sc.cn/f510bf16a3fbccb2de057106b6fe32bf 721afc85b670dc995f7890143dee2e0f",
+   {
+    "rel": "assets/api-cache/5bb5046fb4a70f60921dcbbabfdb83ff.json",
+    "method": "POST",
+    "url": "https://api.shenyuan.sc.cn/f510bf16a3fbccb2de057106b6fe32bf",
+    "post": "{\"id\":\"153\",\"access_open_id\":\"01a10f2b-9314-72b5-a16d-98271413668b\",\"access_token\":\"01a116a5-c436-7161-87eb-a31a856c143e\",\"user_id\":379722,\"trans_id\":\"d7161489-17ea-4e4c-8ff8-c798ab8c70a1\",\"timestamp\":1791389656,\"sign\":\"9191764f67ee378846d54e84c4e28ab7\"}",
+    "page": "pages-notification-details-id153"
+   }
+  ],
+  [
+   "POST https://api.shenyuan.sc.cn/f510bf16a3fbccb2de057106b6fe32bf 37dbe4160c0054befeb8c0dbfd7d39bf",
+   {
+    "rel": "assets/api-cache/c672eabb76f109d326fe5f8b40c923fb.json",
+    "method": "POST",
+    "url": "https://api.shenyuan.sc.cn/f510bf16a3fbccb2de057106b6fe32bf",
+    "post": "{\"id\":\"143\",\"access_open_id\":\"01a10f2b-9314-72b5-a16d-98271413668b\",\"access_token\":\"01a116a5-c436-7161-87eb-a31a856c143e\",\"user_id\":379722,\"trans_id\":\"f5a6848c-d047-4f4a-a24f-2e3d54a8db2b\",\"timestamp\":1791389690,\"sign\":\"8de24dac753e93a6dc0b7a3472c92c51\"}",
+    "page": "pages-notification-details-id143"
+   }
+  ],
+  [
+   "POST https://api.shenyuan.sc.cn/71d2e2e52b8ed1a0caa552609833902d c8c3af7ea6ad7bf57764a0b23e991004",
+   {
+    "rel": "assets/api-cache/0f3bfdfdd7822f533fe473637b6ef993.json",
+    "method": "POST",
+    "url": "https://api.shenyuan.sc.cn/71d2e2e52b8ed1a0caa552609833902d",
+    "post": "{\"user_id\":379722,\"order_status\":\"\",\"index\":1,\"limit\":10,\"access_open_id\":\"01a10f2b-9314-72b5-a16d-98271413668b\",\"access_token\":\"01a116a5-c436-7161-87eb-a31a856c143e\",\"trans_id\":\"a8b141ff-1f11-4d96-9e65-6783b882f55a\",\"timestamp\":1791389715,\"sign\":\"ce1b076ca6bcc17b2431279d12961892\"}",
+    "page": "pages-account-orderList-tabs1"
+   }
+  ],
+  [
+   "POST https://api.shenyuan.sc.cn/ed613818fc6d884fb08b7c9ab2b68585 589d016d0ee7eb2cf893e558cf962893",
+   {
+    "rel": "assets/api-cache/361a397ce76b10ec42283b61e1b59dfe.json",
+    "method": "POST",
+    "url": "https://api.shenyuan.sc.cn/ed613818fc6d884fb08b7c9ab2b68585",
+    "post": "{\"user_id\":379722,\"status\":\"\",\"index\":1,\"limit\":10,\"access_open_id\":\"01a10f2b-9314-72b5-a16d-98271413668b\",\"access_token\":\"01a116a5-c436-7161-87eb-a31a856c143e\",\"trans_id\":\"13b301a5-82ac-402e-b9bb-7ad08b7ce31b\",\"timestamp\":1791389749,\"sign\":\"01532645b8047d9084e68c9c6e288475\"}",
+    "page": "pages-account-orderList-tabs2"
+   }
+  ],
+  [
+   "POST https://api.shenyuan.sc.cn/4f8beda76690061ebfd67f96acdb72f2 e79411b4cc3c5924b00b8a1440fc9253",
+   {
+    "rel": "assets/api-cache/eebd59c28198943713189e3449585179.json",
+    "method": "POST",
+    "url": "https://api.shenyuan.sc.cn/4f8beda76690061ebfd67f96acdb72f2",
+    "post": "{\"index\":1,\"limit\":10,\"status\":0,\"access_open_id\":\"01a10f2b-9314-72b5-a16d-98271413668b\",\"access_token\":\"01a116a5-c436-7161-87eb-a31a856c143e\",\"user_id\":379722,\"trans_id\":\"d59eec8b-2503-4e8c-8951-a26d682ce552\",\"timestamp\":1791389790,\"sign\":\"6d0ed40e91eee12f5b95116294b8dbcc\"}",
+    "page": "pages-account-orderList-consign"
+   }
+  ],
+  [
+   "POST https://api.shenyuan.sc.cn/34c3c6a5599821263edbbf7285857e7a e505d2858fbeec0631c3eefa751b620a",
+   {
+    "rel": "assets/api-cache/65ffe924a32bc534aaf8580247e5bc78.json",
+    "method": "POST",
+    "url": "https://api.shenyuan.sc.cn/34c3c6a5599821263edbbf7285857e7a",
+    "post": "{\"compose_id\":\"18\",\"access_open_id\":\"01a10f2b-9314-72b5-a16d-98271413668b\",\"access_token\":\"01a116a5-c436-7161-87eb-a31a856c143e\",\"user_id\":379722,\"trans_id\":\"58ff7d9c-c664-47e4-9b30-4b18ce8ab3fd\",\"timestamp\":1791389800,\"sign\":\"c97c39b1edd9d4ad08da6ac4b3540ecb\"}",
+    "page": "pages-colorfulMix-details-id18"
+   }
+  ]
+ ]
+}

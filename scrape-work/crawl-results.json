@@ -1,0 +1,679 @@
+[
+ {
+  "route": "pages-Announcement-Announcement",
+  "pageName": "pages-Announcement-Announcement",
+  "bytes": 143252,
+  "textLen": 12,
+  "title": "公告"
+ },
+ {
+  "route": "pages-Announcement-details",
+  "pageName": "pages-Announcement-details",
+  "bytes": 141769,
+  "textLen": 0,
+  "title": ""
+ },
+ {
+  "route": "pages-Announcement-list",
+  "pageName": "pages-Announcement-list",
+  "bytes": 141476,
+  "textLen": 0,
+  "title": ""
+ },
+ {
+  "route": "pages-Discussion-Discussion",
+  "pageName": "pages-Discussion-Discussion",
+  "bytes": 142471,
+  "textLen": 15,
+  "title": "ICARD有话说"
+ },
+ {
+  "route": "pages-Transformation-Transformation",
+  "pageName": "pages-Transformation-Transformation",
+  "bytes": 153041,
+  "textLen": 135,
+  "title": "幻化"
+ },
+ {
+  "route": "pages-account-InviteRankingList",
+  "pageName": "pages-account-InviteRankingList",
+  "bytes": 150250,
+  "textLen": 52,
+  "title": ""
+ },
+ {
+  "route": "pages-account-Warelist",
+  "pageName": "pages-account-Warelist",
+  "bytes": 159259,
+  "textLen": 52,
+  "title": ""
+ },
+ {
+  "route": "pages-account-about",
+  "pageName": "pages-account-about",
+  "bytes": 145294,
+  "textLen": 242,
+  "title": "关于平台"
+ },
+ {
+  "route": "pages-account-account",
+  "pageName": "pages-account-account",
+  "bytes": 155285,
+  "textLen": 83,
+  "title": "我的"
+ },
+ {
+  "route": "pages-account-bidList",
+  "pageName": "pages-account-bidList",
+  "bytes": 142965,
+  "textLen": 26,
+  "title": "求购订单"
+ },
+ {
+  "route": "pages-account-blindbox",
+  "pageName": "pages-account-blindbox",
+  "bytes": 155432,
+  "textLen": 80,
+  "title": "盲盒"
+ },
+ {
+  "route": "pages-account-blindboxresult",
+  "pageName": "pages-account-blindboxresult",
+  "bytes": 151085,
+  "textLen": 110,
+  "title": "盲盒结果"
+ },
+ {
+  "route": "pages-account-collections",
+  "pageName": "pages-account-collections",
+  "bytes": 164848,
+  "textLen": 52,
+  "title": ""
+ },
+ {
+  "route": "pages-account-community",
+  "pageName": "pages-account-community",
+  "bytes": 140644,
+  "textLen": 7,
+  "title": "官方公众号"
+ },
+ {
+  "route": "pages-account-increase",
+  "pageName": "pages-account-increase",
+  "bytes": 148443,
+  "textLen": 44,
+  "title": "转售"
+ },
+ {
+  "route": "pages-account-invite",
+  "pageName": "pages-account-invite",
+  "bytes": 155882,
+  "textLen": 52,
+  "title": ""
+ },
+ {
+  "route": "pages-account-marketOrderList",
+  "pageName": "pages-account-marketOrderList",
+  "bytes": 151318,
+  "textLen": 378,
+  "title": "寄售订单"
+ },
+ {
+  "route": "pages-account-nickname",
+  "pageName": "pages-account-nickname",
+  "bytes": 141758,
+  "textLen": 16,
+  "title": "昵称"
+ },
+ {
+  "route": "pages-account-open",
+  "pageName": "pages-account-open",
+  "bytes": 144719,
+  "textLen": 44,
+  "title": "开盒记录"
+ },
+ {
+  "route": "pages-account-order",
+  "pageName": "pages-account-order",
+  "bytes": 144288,
+  "textLen": 11,
+  "title": "我的提货"
+ },
+ {
+  "route": "pages-account-orderList",
+  "pageName": "pages-account-orderList",
+  "bytes": 155834,
+  "textLen": 52,
+  "title": ""
+ },
+ {
+  "route": "pages-account-other",
+  "pageName": "pages-account-other",
+  "bytes": 162590,
+  "textLen": 52,
+  "title": ""
+ },
+ {
+  "route": "pages-account-otheruser",
+  "pageName": "pages-account-otheruser",
+  "bytes": 146168,
+  "textLen": 233,
+  "title": "TA人主页"
+ },
+ {
+  "route": "pages-account-physicalOrderList",
+  "pageName": "pages-account-physicalOrderList",
+  "bytes": 144954,
+  "textLen": 31,
+  "title": "实物订单"
+ },
+ {
+  "route": "pages-account-privacy",
+  "pageName": "pages-account-privacy",
+  "bytes": 143554,
+  "textLen": 16,
+  "title": "隐私设置"
+ },
+ {
+  "route": "pages-account-realname",
+  "pageName": "pages-account-realname",
+  "bytes": 146490,
+  "textLen": 118,
+  "title": "实名认证"
+ },
+ {
+  "route": "pages-account-safePass",
+  "pageName": "pages-account-safePass",
+  "bytes": 152299,
+  "textLen": 60,
+  "title": "设置支付密码"
+ },
+ {
+  "route": "pages-account-saleList",
+  "pageName": "pages-account-saleList",
+  "bytes": 152315,
+  "textLen": 52,
+  "title": ""
+ },
+ {
+  "route": "pages-account-service",
+  "pageName": "pages-account-service",
+  "bytes": 149061,
+  "textLen": 1268,
+  "title": "联系客服"
+ },
+ {
+  "route": "pages-account-setting",
+  "pageName": "pages-account-setting",
+  "bytes": 144920,
+  "textLen": 28,
+  "title": "账号安全"
+ },
+ {
+  "route": "pages-account-user",
+  "pageName": "pages-account-user",
+  "bytes": 153377,
+  "textLen": 52,
+  "title": ""
+ },
+ {
+  "route": "pages-activity-activity",
+  "pageName": "pages-activity-activity",
+  "bytes": 144136,
+  "textLen": 19,
+  "title": "活动"
+ },
+ {
+  "route": "pages-address-add",
+  "pageName": "pages-address-add",
+  "bytes": 156409,
+  "textLen": 310,
+  "title": "新增地址"
+ },
+ {
+  "route": "pages-address-address",
+  "pageName": "pages-address-address",
+  "bytes": 153376,
+  "textLen": 52,
+  "title": ""
+ },
+ {
+  "route": "pages-colorfulMix-colorfulMix",
+  "pageName": "pages-colorfulMix-colorfulMix",
+  "bytes": 155885,
+  "textLen": 164,
+  "title": "合成中心"
+ },
+ {
+  "route": "pages-colorfulMix-community",
+  "pageName": "pages-colorfulMix-community",
+  "bytes": 143674,
+  "textLen": 33,
+  "title": "社群入口"
+ },
+ {
+  "route": "pages-colorfulMix-details",
+  "pageName": "pages-colorfulMix-details",
+  "bytes": 159460,
+  "textLen": 52,
+  "title": ""
+ },
+ {
+  "route": "pages-colorfulMix-group",
+  "pageName": "pages-colorfulMix-group",
+  "bytes": 142459,
+  "textLen": 9,
+  "title": "活动通道"
+ },
+ {
+  "route": "pages-colorfulMix-icardGame",
+  "pageName": "pages-colorfulMix-icardGame",
+  "bytes": 169959,
+  "textLen": 544,
+  "title": "ICARD"
+ },
+ {
+  "route": "pages-colorfulMix-index",
+  "pageName": "pages-colorfulMix-index",
+  "bytes": 149540,
+  "textLen": 202,
+  "title": "合成助手"
+ },
+ {
+  "route": "pages-colorfulMix-records",
+  "pageName": "pages-colorfulMix-records",
+  "bytes": 142767,
+  "textLen": 9,
+  "title": "合成记录"
+ },
+ {
+  "route": "pages-colorfulMix-result",
+  "pageName": "pages-colorfulMix-result",
+  "bytes": 146414,
+  "textLen": 7,
+  "title": "合成"
+ },
+ {
+  "route": "pages-common-aliyunCaptcha",
+  "pageName": "pages-common-aliyunCaptcha",
+  "bytes": 140997,
+  "textLen": 6,
+  "title": "安全验证"
+ },
+ {
+  "route": "pages-common-emptyPage",
+  "pageName": "pages-common-emptyPage",
+  "bytes": 141695,
+  "textLen": 9,
+  "title": ""
+ },
+ {
+  "route": "pages-common-neteaseCaptcha",
+  "pageName": "pages-common-neteaseCaptcha",
+  "error": "page.goto: Timeout 45000ms exceeded.\nCall log:\n\u001b[2m  - navigating to \"https://h5.shenyuan.sc.cn/#/pages/common/neteaseCaptcha\", waiting until \"load\"\u001b[22m\n"
+ },
+ {
+  "route": "pages-community-community",
+  "pageName": "pages-community-community",
+  "bytes": 141968,
+  "textLen": 9,
+  "title": "社区"
+ },
+ {
+  "route": "pages-download-download",
+  "pageName": "pages-download-download",
+  "bytes": 143113,
+  "textLen": 0,
+  "title": "APP下载"
+ },
+ {
+  "route": "pages-drawPrize-drawPrize",
+  "pageName": "pages-drawPrize-drawPrize",
+  "bytes": 159358,
+  "textLen": 52,
+  "title": ""
+ },
+ {
+  "route": "pages-drawPrize-records",
+  "pageName": "pages-drawPrize-records",
+  "bytes": 151492,
+  "textLen": 52,
+  "title": ""
+ },
+ {
+  "route": "pages-drawlots-details",
+  "pageName": "pages-drawlots-details",
+  "bytes": 153348,
+  "textLen": 50,
+  "title": "抽签详情"
+ },
+ {
+  "route": "pages-drawlots-drawlots",
+  "pageName": "pages-drawlots-drawlots",
+  "bytes": 147948,
+  "textLen": 40,
+  "title": ""
+ },
+ {
+  "route": "pages-entrust-entrust",
+  "pageName": "pages-entrust-entrust",
+  "bytes": 146064,
+  "textLen": 4,
+  "title": "委托"
+ },
+ {
+  "route": "pages-home-home",
+  "pageName": "pages-home-home",
+  "bytes": 166707,
+  "textLen": 544,
+  "title": "ICARD"
+ },
+ {
+  "route": "pages-index-index",
+  "pageName": "pages-index-index",
+  "bytes": 168352,
+  "textLen": 544,
+  "title": "ICARD"
+ },
+ {
+  "route": "pages-integral-Get",
+  "pageName": "pages-integral-Get",
+  "bytes": 151772,
+  "textLen": 52,
+  "title": ""
+ },
+ {
+  "route": "pages-integral-details",
+  "pageName": "pages-integral-details",
+  "bytes": 157963,
+  "textLen": 52,
+  "title": ""
+ },
+ {
+  "route": "pages-integral-integral",
+  "pageName": "pages-integral-integral",
+  "bytes": 154729,
+  "textLen": 52,
+  "title": ""
+ },
+ {
+  "route": "pages-integral-my",
+  "pageName": "pages-integral-my",
+  "bytes": 144520,
+  "textLen": 62,
+  "title": "我的积分"
+ },
+ {
+  "route": "pages-integral-records",
+  "pageName": "pages-integral-records",
+  "bytes": 151518,
+  "textLen": 52,
+  "title": ""
+ },
+ {
+  "route": "pages-invite-invite",
+  "pageName": "pages-invite-invite",
+  "bytes": 151594,
+  "textLen": 52,
+  "title": ""
+ },
+ {
+  "route": "pages-invite-list",
+  "pageName": "pages-invite-list",
+  "bytes": 150734,
+  "textLen": 52,
+  "title": ""
+ },
+ {
+  "route": "pages-login-forget",
+  "pageName": "pages-login-forget",
+  "bytes": 153437,
+  "textLen": 34,
+  "title": "设置登录密码"
+ },
+ {
+  "route": "pages-login-login",
+  "pageName": "pages-login-login",
+  "bytes": 148814,
+  "textLen": 52,
+  "title": ""
+ },
+ {
+  "route": "pages-login-register",
+  "pageName": "pages-login-register",
+  "bytes": 154108,
+  "textLen": 65,
+  "title": "注册"
+ },
+ {
+  "route": "pages-market-Consignment",
+  "pageName": "pages-market-Consignment",
+  "bytes": 141415,
+  "textLen": 36,
+  "title": "寄售记录"
+ },
+ {
+  "route": "pages-market-batchBuy",
+  "pageName": "pages-market-batchBuy",
+  "bytes": 147935,
+  "textLen": 122,
+  "title": "批量购买"
+ },
+ {
+  "route": "pages-market-bidDetail",
+  "pageName": "pages-market-bidDetail",
+  "bytes": 154827,
+  "textLen": 289,
+  "title": "出售"
+ },
+ {
+  "route": "pages-market-cardMap",
+  "pageName": "pages-market-cardMap",
+  "bytes": 140965,
+  "textLen": 4,
+  "title": "卡鉴"
+ },
+ {
+  "route": "pages-market-confirmorder",
+  "pageName": "pages-market-confirmorder",
+  "bytes": 153542,
+  "textLen": 78,
+  "title": "确认订单"
+ },
+ {
+  "route": "pages-market-createOrder",
+  "pageName": "pages-market-createOrder",
+  "bytes": 146873,
+  "textLen": 4,
+  "title": "订单"
+ },
+ {
+  "route": "pages-market-details",
+  "pageName": "pages-market-details",
+  "bytes": 178752,
+  "textLen": 52,
+  "title": ""
+ },
+ {
+  "route": "pages-market-goodsDetails",
+  "pageName": "pages-market-goodsDetails",
+  "bytes": 164242,
+  "textLen": 164,
+  "title": "数字版权品"
+ },
+ {
+  "route": "pages-market-market",
+  "pageName": "pages-market-market",
+  "bytes": 185088,
+  "textLen": 227,
+  "title": "市场"
+ },
+ {
+  "route": "pages-market-physicalGoodsDetails",
+  "pageName": "pages-market-physicalGoodsDetails",
+  "bytes": 146287,
+  "textLen": 52,
+  "title": "商品详情"
+ },
+ {
+  "route": "pages-market-sale",
+  "pageName": "pages-market-sale",
+  "bytes": 151124,
+  "textLen": 214,
+  "title": "寄售"
+ },
+ {
+  "route": "pages-market-saleResult",
+  "pageName": "pages-market-saleResult",
+  "bytes": 142255,
+  "textLen": 27,
+  "title": "寄售成功"
+ },
+ {
+  "route": "pages-market-submitBegBuy",
+  "pageName": "pages-market-submitBegBuy",
+  "bytes": 147772,
+  "textLen": 4,
+  "title": "求购委托"
+ },
+ {
+  "route": "pages-market-transactionParticulars",
+  "pageName": "pages-market-transactionParticulars",
+  "bytes": 145531,
+  "textLen": 60,
+  "title": "成交记录"
+ },
+ {
+  "route": "pages-mix-details",
+  "pageName": "pages-mix-details",
+  "bytes": 159436,
+  "textLen": 52,
+  "title": ""
+ },
+ {
+  "route": "pages-mix-mix",
+  "pageName": "pages-mix-mix",
+  "bytes": 141981,
+  "textLen": 9,
+  "title": "置换活动"
+ },
+ {
+  "route": "pages-mix-records",
+  "pageName": "pages-mix-records",
+  "bytes": 141539,
+  "textLen": 11,
+  "title": "兑换记录"
+ },
+ {
+  "route": "pages-mix-result",
+  "pageName": "pages-mix-result",
+  "bytes": 146387,
+  "textLen": 9,
+  "title": "置换活动"
+ },
+ {
+  "route": "pages-notification-details",
+  "pageName": "pages-notification-details",
+  "bytes": 142831,
+  "textLen": 6,
+  "title": "公告详情"
+ },
+ {
+  "route": "pages-notification-notification",
+  "pageName": "pages-notification-notification",
+  "bytes": 175143,
+  "textLen": 799,
+  "title": "公告"
+ },
+ {
+  "route": "pages-salvage-details",
+  "pageName": "pages-salvage-details",
+  "bytes": 159448,
+  "textLen": 52,
+  "title": ""
+ },
+ {
+  "route": "pages-salvage-records",
+  "pageName": "pages-salvage-records",
+  "bytes": 141562,
+  "textLen": 11,
+  "title": "分解记录"
+ },
+ {
+  "route": "pages-salvage-salvage",
+  "pageName": "pages-salvage-salvage",
+  "bytes": 142737,
+  "textLen": 9,
+  "title": "分解"
+ },
+ {
+  "route": "pages-search-search",
+  "pageName": "pages-search-search",
+  "bytes": 143353,
+  "textLen": 4,
+  "title": "搜索"
+ },
+ {
+  "route": "pages-sign-sign",
+  "pageName": "pages-sign-sign",
+  "bytes": 155046,
+  "textLen": 52,
+  "title": ""
+ },
+ {
+  "route": "pages-success-index",
+  "pageName": "pages-success-index",
+  "bytes": 168156,
+  "textLen": 0,
+  "title": "ICARD"
+ },
+ {
+  "route": "pages-todayrank-todayrank",
+  "pageName": "pages-todayrank-todayrank",
+  "bytes": 150647,
+  "textLen": 101,
+  "title": "今日热榜"
+ },
+ {
+  "route": "pages-wallet-thirdWallet",
+  "pageName": "pages-wallet-thirdWallet",
+  "bytes": 141777,
+  "textLen": 4,
+  "title": "汇付钱包"
+ },
+ {
+  "route": "pages-wallet-wallet",
+  "pageName": "pages-wallet-wallet",
+  "bytes": 152418,
+  "textLen": 52,
+  "title": ""
+ },
+ {
+  "route": "pages-wallet-wallet1",
+  "pageName": "pages-wallet-wallet1",
+  "bytes": 155932,
+  "textLen": 52,
+  "title": ""
+ },
+ {
+  "route": "pages-webview-Policy",
+  "pageName": "pages-webview-Policy",
+  "bytes": 140961,
+  "textLen": 0,
+  "title": "关于我们"
+ },
+ {
+  "route": "pages-webview-webview",
+  "pageName": "pages-webview-webview",
+  "bytes": 141121,
+  "textLen": 1,
+  "title": ""
+ },
+ {
+  "route": "pages-webview-webview2",
+  "pageName": "pages-webview-webview2",
+  "bytes": 140691,
+  "textLen": 0,
+  "title": ""
+ }
+]

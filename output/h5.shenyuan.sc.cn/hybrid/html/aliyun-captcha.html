@@ -1,0 +1,163 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no,viewport-fit=cover" />
+	<title>安全验证</title>
+	<style>
+		html, body {
+			margin: 0;
+			padding: 0;
+			width: 100%;
+			height: 100%;
+			background: #f5f5f7;
+		}
+		.page {
+			min-height: 100%;
+			display: flex;
+			flex-direction: column;
+			align-items: center;
+			justify-content: center;
+			padding: 24px 16px;
+			box-sizing: border-box;
+		}
+		.title {
+			font-size: 18px;
+			color: #333;
+			margin-bottom: 8px;
+		}
+		.desc {
+			font-size: 13px;
+			color: #999;
+			margin-bottom: 24px;
+		}
+		#captcha-element {
+			width: 100%;
+			max-width: 360px;
+			min-height: 44px;
+		}
+		#captcha-button {
+			width: 0;
+			height: 0;
+			overflow: hidden;
+		}
+		.tip {
+			margin-top: 16px;
+			font-size: 12px;
+			color: #bbb;
+			text-align: center;
+		}
+	</style>
+</head>
+<body>
+	<div class="page">
+		<div class="title">安全验证</div>
+		<div class="desc">请完成下方验证后继续</div>
+		<div id="captcha-element"></div>
+		<div id="captcha-button"></div>
+		<div class="tip">验证通过后自动返回</div>
+	</div>
+
+	<script type="text/javascript" src="https://js.cdn.aliyun.dcloud.net.cn/dev/uni-app/uni.webview.1.5.4.js"></script>
+	<script>
+		function getQuery(name) {
+			var search = window.location.search || "";
+			var reg = new RegExp("[?&]" + name + "=([^&]*)");
+			var match = search.match(reg);
+			return match ? decodeURIComponent(match[1]) : "";
+		}
+
+		var region = getQuery("region") || "cn";
+		var prefix = getQuery("prefix") || "";
+		var sceneId = getQuery("sceneId") || "";
+
+		window.AliyunCaptchaConfig = {
+			region: region,
+			prefix: prefix,
+		};
+
+		function postToUni(payload) {
+			if (window.uni && uni.postMessage) {
+				uni.postMessage({ data: payload });
+			} else if (window.uni && uni.webView && uni.webView.postMessage) {
+				uni.webView.postMessage({ data: payload });
+			}
+		}
+
+		function navigateBack() {
+			if (window.uni && uni.navigateBack) {
+				uni.navigateBack();
+			} else if (window.uni && uni.webView && uni.webView.navigateBack) {
+				uni.webView.navigateBack();
+			}
+		}
+
+		function notifySuccess(captchaVerifyParam) {
+			postToUni({ type: "success", captchaVerifyParam: captchaVerifyParam });
+			setTimeout(navigateBack, 80);
+		}
+
+		function notifyFail(message) {
+			postToUni({ type: "fail", message: message || "验证失败" });
+		}
+
+		function loadScript(src) {
+			return new Promise(function(resolve, reject) {
+				var script = document.createElement("script");
+				script.type = "text/javascript";
+				script.src = src;
+				script.onload = resolve;
+				script.onerror = reject;
+				document.head.appendChild(script);
+			});
+		}
+
+		function initCaptcha() {
+			if (!prefix || !sceneId) {
+				document.querySelector(".desc").innerText = "请在 config/captcha.js 中配置 prefix 与 sceneId";
+				notifyFail("验证码未配置");
+				return;
+			}
+			if (!window.initAliyunCaptcha) {
+				document.querySelector(".desc").innerText = "验证码加载失败，请重试";
+				notifyFail("验证码脚本加载失败");
+				return;
+			}
+			window.initAliyunCaptcha({
+				SceneId: sceneId,
+				mode: "embed",
+				element: "#captcha-element",
+				button: "#captcha-button",
+				success: notifySuccess,
+				fail: function(err) {
+					console.error(err);
+					notifyFail((err && err.message) || "验证失败");
+				},
+				getInstance: function(instance) {
+					setTimeout(function() {
+						if (instance && typeof instance.show === "function") {
+							instance.show();
+							return;
+						}
+						var btn = document.querySelector("#captcha-button");
+						if (btn) btn.click();
+					}, 300);
+				},
+				slideStyle: {
+					width: 360,
+					height: 40,
+				},
+				language: "cn",
+				timeout: 10000,
+			});
+		}
+
+		loadScript("https://o.alicdn.com/captcha-frontend/aliyunCaptcha/AliyunCaptcha.js")
+			.then(initCaptcha)
+			.catch(function() {
+				document.querySelector(".desc").innerText = "验证码加载失败，请检查网络";
+				notifyFail("验证码脚本加载失败");
+			});
+	</script>
+</body>
+</html>

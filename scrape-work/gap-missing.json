@@ -1,0 +1,72 @@
+[
+ {
+  "ref": "static/images/login/bg.png",
+  "n": 1,
+  "from": [
+   "pages\\pages-colorfulMix-group.html"
+  ]
+ },
+ {
+  "ref": "static/images/mix/open.png",
+  "n": 1,
+  "from": [
+   "pages\\pages-colorfulMix-group.html"
+  ]
+ },
+ {
+  "ref": "static/images/mix/item.png",
+  "n": 1,
+  "from": [
+   "pages\\pages-colorfulMix-group.html"
+  ]
+ },
+ {
+  "ref": "assets/ext/dcloud/img/shadow-blue.png",
+  "n": 1,
+  "from": [
+   "static\\index.149e085d.css"
+  ]
+ },
+ {
+  "ref": "assets/ext/dcloud/img/shadow-green.png",
+  "n": 1,
+  "from": [
+   "static\\index.149e085d.css"
+  ]
+ },
+ {
+  "ref": "assets/ext/dcloud/img/shadow-orange.png",
+  "n": 1,
+  "from": [
+   "static\\index.149e085d.css"
+  ]
+ },
+ {
+  "ref": "assets/ext/dcloud/img/shadow-red.png",
+  "n": 1,
+  "from": [
+   "static\\index.149e085d.css"
+  ]
+ },
+ {
+  "ref": "assets/ext/dcloud/img/shadow-yellow.png",
+  "n": 1,
+  "from": [
+   "static\\index.149e085d.css"
+  ]
+ },
+ {
+  "ref": "static/images/user/copy2.png",
+  "n": 1,
+  "from": [
+   "static\\js\\pages-account-order.2b3fb0dd.js"
+  ]
+ },
+ {
+  "ref": "static/logo.jpg",
+  "n": 1,
+  "from": [
+   "static\\js\\pages-drawPrize-records.b2ab4586.js"
+  ]
+ }
+]

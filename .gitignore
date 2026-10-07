@@ -1,0 +1,10 @@
+node_modules/
+*.log
+.DS_Store
+Thumbs.db
+
+# 登录态（含 cookie / token，绝不入库）
+scrape-work/auth-state.json
+
+# 过程产物（验证截图、早期调试件），本地保留但不入库
+archive/

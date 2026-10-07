@@ -1,0 +1,24 @@
+{
+ "total": 138,
+ "present": 135,
+ "missing": [
+  {
+   "u": "https://h5.shenyuan.sc.cn/static/images/login/bg.png",
+   "srcs": [
+    "pages/pages-colorfulMix-group.html"
+   ]
+  },
+  {
+   "u": "https://h5.shenyuan.sc.cn/static/images/mix/open.png",
+   "srcs": [
+    "pages/pages-colorfulMix-group.html"
+   ]
+  },
+  {
+   "u": "https://h5.shenyuan.sc.cn/static/images/mix/item.png",
+   "srcs": [
+    "pages/pages-colorfulMix-group.html"
+   ]
+  }
+ ]
+}

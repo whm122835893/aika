@@ -1,0 +1,578 @@
+[
+ {
+  "route": "pages-Announcement-Announcement",
+  "pageName": "pages-Announcement-Announcement",
+  "bytes": 143252,
+  "textLen": 12
+ },
+ {
+  "route": "pages-Announcement-details",
+  "pageName": "pages-Announcement-details",
+  "bytes": 141769,
+  "textLen": 0
+ },
+ {
+  "route": "pages-Announcement-list",
+  "pageName": "pages-Announcement-list",
+  "bytes": 141476,
+  "textLen": 0
+ },
+ {
+  "route": "pages-Discussion-Discussion",
+  "pageName": "pages-Discussion-Discussion",
+  "bytes": 142471,
+  "textLen": 15
+ },
+ {
+  "route": "pages-Transformation-Transformation",
+  "pageName": "pages-Transformation-Transformation",
+  "bytes": 153041,
+  "textLen": 135
+ },
+ {
+  "route": "pages-account-InviteRankingList",
+  "pageName": "pages-account-InviteRankingList",
+  "bytes": 143123,
+  "textLen": 47
+ },
+ {
+  "route": "pages-account-Warelist",
+  "pageName": "pages-account-Warelist",
+  "bytes": 156184,
+  "textLen": 56
+ },
+ {
+  "route": "pages-account-about",
+  "pageName": "pages-account-about",
+  "bytes": 145294,
+  "textLen": 242
+ },
+ {
+  "route": "pages-account-account",
+  "pageName": "pages-account-account",
+  "bytes": 155466,
+  "textLen": 98
+ },
+ {
+  "route": "pages-account-bidList",
+  "pageName": "pages-account-bidList",
+  "bytes": 142965,
+  "textLen": 26
+ },
+ {
+  "route": "pages-account-blindbox",
+  "pageName": "pages-account-blindbox",
+  "bytes": 155432,
+  "textLen": 80
+ },
+ {
+  "route": "pages-account-blindboxresult",
+  "pageName": "pages-account-blindboxresult",
+  "bytes": 151085,
+  "textLen": 110
+ },
+ {
+  "route": "pages-account-collections",
+  "pageName": "pages-account-collections",
+  "bytes": 162908,
+  "textLen": 126
+ },
+ {
+  "route": "pages-account-community",
+  "pageName": "pages-account-community",
+  "bytes": 140644,
+  "textLen": 7
+ },
+ {
+  "route": "pages-account-increase",
+  "pageName": "pages-account-increase",
+  "bytes": 148443,
+  "textLen": 44
+ },
+ {
+  "route": "pages-account-invite",
+  "pageName": "pages-account-invite",
+  "bytes": 151151,
+  "textLen": 92
+ },
+ {
+  "route": "pages-account-marketOrderList",
+  "pageName": "pages-account-marketOrderList",
+  "bytes": 151318,
+  "textLen": 378
+ },
+ {
+  "route": "pages-account-nickname",
+  "pageName": "pages-account-nickname",
+  "bytes": 141758,
+  "textLen": 16
+ },
+ {
+  "route": "pages-account-open",
+  "pageName": "pages-account-open",
+  "bytes": 144719,
+  "textLen": 44
+ },
+ {
+  "route": "pages-account-order",
+  "pageName": "pages-account-order",
+  "bytes": 144288,
+  "textLen": 11
+ },
+ {
+  "route": "pages-account-orderList",
+  "pageName": "pages-account-orderList",
+  "bytes": 151631,
+  "textLen": 67
+ },
+ {
+  "route": "pages-account-other",
+  "pageName": "pages-account-other",
+  "bytes": 161834,
+  "textLen": 154
+ },
+ {
+  "route": "pages-account-otheruser",
+  "pageName": "pages-account-otheruser",
+  "bytes": 146168,
+  "textLen": 233
+ },
+ {
+  "route": "pages-account-physicalOrderList",
+  "pageName": "pages-account-physicalOrderList",
+  "bytes": 144954,
+  "textLen": 31
+ },
+ {
+  "route": "pages-account-privacy",
+  "pageName": "pages-account-privacy",
+  "bytes": 143554,
+  "textLen": 16
+ },
+ {
+  "route": "pages-account-realname",
+  "pageName": "pages-account-realname",
+  "bytes": 146343,
+  "textLen": 87
+ },
+ {
+  "route": "pages-account-safePass",
+  "pageName": "pages-account-safePass",
+  "bytes": 152299,
+  "textLen": 60
+ },
+ {
+  "route": "pages-account-saleList",
+  "pageName": "pages-account-saleList",
+  "bytes": 144898,
+  "textLen": 28
+ },
+ {
+  "route": "pages-account-service",
+  "pageName": "pages-account-service",
+  "bytes": 149061,
+  "textLen": 1268
+ },
+ {
+  "route": "pages-account-setting",
+  "pageName": "pages-account-setting",
+  "bytes": 144920,
+  "textLen": 28
+ },
+ {
+  "route": "pages-account-user",
+  "pageName": "pages-account-user",
+  "bytes": 147327,
+  "textLen": 103
+ },
+ {
+  "route": "pages-activity-activity",
+  "pageName": "pages-activity-activity",
+  "bytes": 144136,
+  "textLen": 19
+ },
+ {
+  "route": "pages-address-add",
+  "pageName": "pages-address-add",
+  "bytes": 156409,
+  "textLen": 310
+ },
+ {
+  "route": "pages-address-address",
+  "pageName": "pages-address-address",
+  "bytes": 145620,
+  "textLen": 16
+ },
+ {
+  "route": "pages-colorfulMix-colorfulMix",
+  "pageName": "pages-colorfulMix-colorfulMix",
+  "bytes": 154859,
+  "textLen": 105
+ },
+ {
+  "route": "pages-colorfulMix-community",
+  "pageName": "pages-colorfulMix-community",
+  "bytes": 143674,
+  "textLen": 33
+ },
+ {
+  "route": "pages-colorfulMix-details",
+  "pageName": "pages-colorfulMix-details",
+  "bytes": 153759,
+  "textLen": 95
+ },
+ {
+  "route": "pages-colorfulMix-group",
+  "pageName": "pages-colorfulMix-group",
+  "bytes": 142459,
+  "textLen": 9
+ },
+ {
+  "route": "pages-colorfulMix-icardGame",
+  "pageName": "pages-colorfulMix-icardGame",
+  "bytes": 169558,
+  "textLen": 537
+ },
+ {
+  "route": "pages-colorfulMix-index",
+  "pageName": "pages-colorfulMix-index",
+  "bytes": 149540,
+  "textLen": 202
+ },
+ {
+  "route": "pages-colorfulMix-records",
+  "pageName": "pages-colorfulMix-records",
+  "bytes": 142767,
+  "textLen": 9
+ },
+ {
+  "route": "pages-colorfulMix-result",
+  "pageName": "pages-colorfulMix-result",
+  "bytes": 146414,
+  "textLen": 7
+ },
+ {
+  "route": "pages-common-aliyunCaptcha",
+  "pageName": "pages-common-aliyunCaptcha",
+  "bytes": 140997,
+  "textLen": 6
+ },
+ {
+  "route": "pages-common-emptyPage",
+  "pageName": "pages-common-emptyPage",
+  "bytes": 141695,
+  "textLen": 9
+ },
+ {
+  "route": "pages-community-community",
+  "pageName": "pages-community-community",
+  "bytes": 141968,
+  "textLen": 9
+ },
+ {
+  "route": "pages-download-download",
+  "pageName": "pages-download-download",
+  "bytes": 143113,
+  "textLen": 0
+ },
+ {
+  "route": "pages-drawPrize-drawPrize",
+  "pageName": "pages-drawPrize-drawPrize",
+  "bytes": 154929,
+  "textLen": 26
+ },
+ {
+  "route": "pages-drawPrize-records",
+  "pageName": "pages-drawPrize-records",
+  "bytes": 143001,
+  "textLen": 11
+ },
+ {
+  "route": "pages-drawlots-details",
+  "pageName": "pages-drawlots-details",
+  "bytes": 153348,
+  "textLen": 50
+ },
+ {
+  "route": "pages-drawlots-drawlots",
+  "pageName": "pages-drawlots-drawlots",
+  "bytes": 147948,
+  "textLen": 40
+ },
+ {
+  "route": "pages-entrust-entrust",
+  "pageName": "pages-entrust-entrust",
+  "bytes": 146064,
+  "textLen": 4
+ },
+ {
+  "route": "pages-home-home",
+  "pageName": "pages-home-home",
+  "bytes": 166700,
+  "textLen": 537
+ },
+ {
+  "route": "pages-index-index",
+  "pageName": "pages-index-index",
+  "bytes": 168346,
+  "textLen": 537
+ },
+ {
+  "route": "pages-integral-Get",
+  "pageName": "pages-integral-Get",
+  "bytes": 144524,
+  "textLen": 54
+ },
+ {
+  "route": "pages-integral-details",
+  "pageName": "pages-integral-details",
+  "bytes": 151666,
+  "textLen": 183
+ },
+ {
+  "route": "pages-integral-integral",
+  "pageName": "pages-integral-integral",
+  "bytes": 148621,
+  "textLen": 35
+ },
+ {
+  "route": "pages-integral-my",
+  "pageName": "pages-integral-my",
+  "bytes": 144520,
+  "textLen": 62
+ },
+ {
+  "route": "pages-integral-records",
+  "pageName": "pages-integral-records",
+  "bytes": 142847,
+  "textLen": 9
+ },
+ {
+  "route": "pages-invite-invite",
+  "pageName": "pages-invite-invite",
+  "bytes": 147076,
+  "textLen": 91
+ },
+ {
+  "route": "pages-invite-list",
+  "pageName": "pages-invite-list",
+  "bytes": 143327,
+  "textLen": 24
+ },
+ {
+  "route": "pages-login-forget",
+  "pageName": "pages-login-forget",
+  "bytes": 153437,
+  "textLen": 34
+ },
+ {
+  "route": "pages-login-login",
+  "pageName": "pages-login-login",
+  "bytes": 148814,
+  "textLen": 52
+ },
+ {
+  "route": "pages-login-register",
+  "pageName": "pages-login-register",
+  "bytes": 154108,
+  "textLen": 65
+ },
+ {
+  "route": "pages-market-Consignment",
+  "pageName": "pages-market-Consignment",
+  "bytes": 141415,
+  "textLen": 36
+ },
+ {
+  "route": "pages-market-batchBuy",
+  "pageName": "pages-market-batchBuy",
+  "bytes": 147935,
+  "textLen": 122
+ },
+ {
+  "route": "pages-market-bidDetail",
+  "pageName": "pages-market-bidDetail",
+  "bytes": 154827,
+  "textLen": 289
+ },
+ {
+  "route": "pages-market-cardMap",
+  "pageName": "pages-market-cardMap",
+  "bytes": 140965,
+  "textLen": 4
+ },
+ {
+  "route": "pages-market-confirmorder",
+  "pageName": "pages-market-confirmorder",
+  "bytes": 153542,
+  "textLen": 78
+ },
+ {
+  "route": "pages-market-createOrder",
+  "pageName": "pages-market-createOrder",
+  "bytes": 146873,
+  "textLen": 4
+ },
+ {
+  "route": "pages-market-details",
+  "pageName": "pages-market-details",
+  "bytes": 176704,
+  "textLen": 97
+ },
+ {
+  "route": "pages-market-goodsDetails",
+  "pageName": "pages-market-goodsDetails",
+  "bytes": 164242,
+  "textLen": 164
+ },
+ {
+  "route": "pages-market-market",
+  "pageName": "pages-market-market",
+  "bytes": 185074,
+  "textLen": 213
+ },
+ {
+  "route": "pages-market-physicalGoodsDetails",
+  "pageName": "pages-market-physicalGoodsDetails",
+  "bytes": 146287,
+  "textLen": 52
+ },
+ {
+  "route": "pages-market-sale",
+  "pageName": "pages-market-sale",
+  "bytes": 151124,
+  "textLen": 214
+ },
+ {
+  "route": "pages-market-saleResult",
+  "pageName": "pages-market-saleResult",
+  "bytes": 142255,
+  "textLen": 27
+ },
+ {
+  "route": "pages-market-submitBegBuy",
+  "pageName": "pages-market-submitBegBuy",
+  "bytes": 147772,
+  "textLen": 4
+ },
+ {
+  "route": "pages-market-transactionParticulars",
+  "pageName": "pages-market-transactionParticulars",
+  "bytes": 145531,
+  "textLen": 60
+ },
+ {
+  "route": "pages-mix-details",
+  "pageName": "pages-mix-details",
+  "bytes": 153721,
+  "textLen": 95
+ },
+ {
+  "route": "pages-mix-mix",
+  "pageName": "pages-mix-mix",
+  "bytes": 141981,
+  "textLen": 9
+ },
+ {
+  "route": "pages-mix-records",
+  "pageName": "pages-mix-records",
+  "bytes": 141539,
+  "textLen": 11
+ },
+ {
+  "route": "pages-mix-result",
+  "pageName": "pages-mix-result",
+  "bytes": 146387,
+  "textLen": 9
+ },
+ {
+  "route": "pages-notification-details",
+  "pageName": "pages-notification-details",
+  "bytes": 142831,
+  "textLen": 6
+ },
+ {
+  "route": "pages-notification-notification",
+  "pageName": "pages-notification-notification",
+  "bytes": 174596,
+  "textLen": 752
+ },
+ {
+  "route": "pages-salvage-details",
+  "pageName": "pages-salvage-details",
+  "bytes": 153739,
+  "textLen": 95
+ },
+ {
+  "route": "pages-salvage-records",
+  "pageName": "pages-salvage-records",
+  "bytes": 141562,
+  "textLen": 11
+ },
+ {
+  "route": "pages-salvage-salvage",
+  "pageName": "pages-salvage-salvage",
+  "bytes": 142737,
+  "textLen": 9
+ },
+ {
+  "route": "pages-search-search",
+  "pageName": "pages-search-search",
+  "bytes": 143353,
+  "textLen": 4
+ },
+ {
+  "route": "pages-sign-sign",
+  "pageName": "pages-sign-sign",
+  "bytes": 154128,
+  "textLen": 181
+ },
+ {
+  "route": "pages-success-index",
+  "pageName": "pages-success-index",
+  "bytes": 168149,
+  "textLen": 0
+ },
+ {
+  "route": "pages-todayrank-todayrank",
+  "pageName": "pages-todayrank-todayrank",
+  "bytes": 149116,
+  "textLen": 72
+ },
+ {
+  "route": "pages-wallet-thirdWallet",
+  "pageName": "pages-wallet-thirdWallet",
+  "bytes": 141777,
+  "textLen": 4
+ },
+ {
+  "route": "pages-wallet-wallet",
+  "pageName": "pages-wallet-wallet",
+  "bytes": 143130,
+  "textLen": 4
+ },
+ {
+  "route": "pages-wallet-wallet1",
+  "pageName": "pages-wallet-wallet1",
+  "bytes": 146644,
+  "textLen": 4
+ },
+ {
+  "route": "pages-webview-Policy",
+  "pageName": "pages-webview-Policy",
+  "bytes": 140961,
+  "textLen": 0
+ },
+ {
+  "route": "pages-webview-webview",
+  "pageName": "pages-webview-webview",
+  "bytes": 141121,
+  "textLen": 1
+ },
+ {
+  "route": "pages-webview-webview2",
+  "pageName": "pages-webview-webview2",
+  "bytes": 140691,
+  "textLen": 0
+ }
+]
